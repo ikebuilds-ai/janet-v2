@@ -1,0 +1,24 @@
+{
+  "generatedOn": "2026-07-12",
+  "notes": [
+    "Queensland school holiday dates sourced from the Queensland Department of Education and cross-checked with published QLD school holiday calendars.",
+    "A 50-cent flat Translink fare currently applies across SEQ, but transport-leg estimates in transport-legs.json use coach/shuttle market rates where relevant.",
+    "Default band is shoulder. Any date outside the explicit calendar falls back to shoulder with a warning."
+  ],
+  "bands": [
+    { "id": "peak", "label": "Peak (school holidays / major events)", "accomMultiplier": 1.35, "activityMultiplier": 1.0 },
+    { "id": "shoulder", "label": "Shoulder", "accomMultiplier": 1.10, "activityMultiplier": 1.0 },
+    { "id": "offpeak", "label": "Off-peak", "accomMultiplier": 0.90, "activityMultiplier": 1.0 }
+  ],
+  "calendar": [
+    { "from": "2026-04-03", "to": "2026-04-19", "band": "peak", "reason": "QLD autumn school holidays" },
+    { "from": "2026-06-27", "to": "2026-07-12", "band": "peak", "reason": "QLD winter school holidays" },
+    { "from": "2026-09-19", "to": "2026-10-05", "band": "peak", "reason": "QLD spring school holidays" },
+    { "from": "2026-12-12", "to": "2027-01-26", "band": "peak", "reason": "Summer/Christmas school holidays" },
+    { "from": "2027-04-02", "to": "2027-04-18", "band": "peak", "reason": "QLD autumn school holidays" },
+    { "from": "2027-06-26", "to": "2027-07-11", "band": "peak", "reason": "QLD winter school holidays" },
+    { "from": "2027-09-18", "to": "2027-10-04", "band": "peak", "reason": "QLD spring school holidays" },
+    { "from": "2027-12-11", "to": "2028-01-24", "band": "peak", "reason": "Summer/Christmas school holidays" }
+  ],
+  "defaultBand": "shoulder"
+}

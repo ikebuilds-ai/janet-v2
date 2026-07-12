@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "lastVerified": "2026-07-12",
+    "note": "Supermarket locations and hours are approximate. Always verify opening hours on the chain's website or app.",
+    "count": 8
+  },
+  "stores": [
+    {
+      "id": "woolies-noosa-junction",
+      "chain": "Woolworths",
+      "name": "Woolworths Noosa Junction",
+      "area": "noosa-heads",
+      "address": "Noosa Junction Shopping Centre, Noosa Dr, Noosa Heads QLD 4567",
+      "hours": "7am–9pm daily",
+      "notes": "Full supermarket at Noosa Junction. Walk from Noosa Heads accommodation. Closest major supermarket to Hastings Street area."
+    },
+    {
+      "id": "woolies-noosaville",
+      "chain": "Woolworths",
+      "name": "Woolworths Noosaville",
+      "area": "noosaville",
+      "address": "Noosa Homemaker Centre, 5-9 Gateway Dr, Noosaville QLD 4566",
+      "hours": "7am–9pm daily",
+      "notes": "Large Woolworths in Noosaville. Good for families staying in Noosaville or the river areas. Ample parking."
+    },
+    {
+      "id": "coles-noosa",
+      "chain": "Coles",
+      "name": "Coles Noosa",
+      "area": "noosa-heads",
+      "address": "Noosa Civic Shopping Centre, 28 Eenie Creek Rd, Noosa Heads QLD 4567",
+      "hours": "7am–9pm daily",
+      "notes": "Full Coles at Noosa Civic. Short drive from Noosa Heads and Sunshine Beach. Good range, easy parking."
+    },
+    {
+      "id": "coles-noosaville",
+      "chain": "Coles",
+      "name": "Coles Noosaville",
+      "area": "noosaville",
+      "address": "Noosa Homemaker Centre, 5-9 Gateway Dr, Noosaville QLD 4566",
+      "hours": "7am–9pm daily",
+      "notes": "Coles at the same complex as Woolworths Noosaville. Good range, convenient for families staying riverside."
+    },
+    {
+      "id": "aldi-noosaville",
+      "chain": "ALDI",
+      "name": "ALDI Noosaville",
+      "area": "noosaville",
+      "address": "ALDI Noosaville, 7 Gateway Dr, Noosaville QLD 4566",
+      "hours": "8:30am–8pm daily",
+      "notes": "Budget grocery option for Noosa families. Excellent value for staples. Bring or buy bags."
+    },
+    {
+      "id": "iga-sunrise-beach",
+      "chain": "IGA",
+      "name": "IGA Sunrise Beach",
+      "area": "sunshine-beach",
+      "address": "Sunrise Beach Shopping Village, 2/3 Loop Cct, Sunrise Beach QLD 4567",
+      "hours": "7am–8pm daily",
+      "notes": "Local IGA for Sunrise Beach and Sunshine Beach families. Good for quick top-ups and essentials. Shorter walk from beach accommodation."
+    },
+    {
+      "id": "foodworks-noosa",
+      "chain": "FoodWorks",
+      "name": "FoodWorks Noosaville",
+      "area": "noosaville",
+      "address": "FoodWorks Noosaville, 185 Gympie Tce, Noosaville QLD 4566",
+      "hours": "7am–8pm daily",
+      "notes": "Community supermarket on Gympie Terrace. Walk from Noosaville accommodation. Good for riverside families wanting quick supplies."
+    },
+    {
+      "id": "spar-peregian",
+      "chain": "SPAR",
+      "name": "SPAR Peregian Springs",
+      "area": "sunshine-beach",
+      "address": "Peregian Springs Shopping Centre, The Avenue, Peregian Springs QLD 4573",
+      "hours": "7am–8pm daily",
+      "notes": "SPAR convenience supermarket near Peregian. Smaller range but useful for quick supplies. Good backup option."
+    }
+  ]
+}

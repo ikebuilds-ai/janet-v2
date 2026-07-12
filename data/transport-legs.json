@@ -1,0 +1,116 @@
+{
+  "generatedOn": "2026-07-12",
+  "notes": [
+    "Distances and durations are realistic estimates for family travel in SEQ; driving estimates include fuel + tolls but exclude parking.",
+    "Public-transport modes use perPerson:true and kidDiscount:0.5 (children roughly half adult fare on coaches/shuttles).",
+    "Translink currently runs a 50c flat fare across SEQ, but long-distance coach/shuttle operators (Greyhound, Con-X-ion, private shuttles) still charge per-person market rates — those are reflected here.",
+    "Train options only listed where a direct or single-transfer rail service exists (e.g. Gold Coast and Sunshine Coast lines to/from Brisbane).",
+    "Bus options cover coach/long-distance buses and regional Translink coach connections where realistic.",
+    "Shuttle options cover private airport/hotel shuttle services, commonly used by families.",
+    "Omitted: modes that do not realistically exist for a pair (e.g. direct train Gold Coast ↔ Noosa, direct train Sunshine Coast ↔ Noosa beyond bus feeders)."
+  ],
+  "currency": "AUD",
+  "legs": [
+    {
+      "from": "gold-coast",
+      "to": "brisbane",
+      "distanceKm": 78,
+      "options": [
+        { "mode": "own-car", "costEstimate": 22, "durationMin": 75, "note": "Fuel + tolls (Gateway Motorway), M1 northbound" },
+        { "mode": "train", "costEstimate": 40, "perPerson": true, "kidDiscount": 0.5, "durationMin": 95, "note": "G:link light rail to Helensvale, then Gold Coast line to Brisbane" },
+        { "mode": "bus", "costEstimate": 35, "perPerson": true, "kidDiscount": 0.5, "durationMin": 110, "note": "Greyhound/Coach service, central stops" }
+      ]
+    },
+    {
+      "from": "gold-coast",
+      "to": "sunshine-coast",
+      "distanceKm": 184,
+      "options": [
+        { "mode": "own-car", "costEstimate": 42, "durationMin": 145, "note": "Fuel + tolls, M1 northbound past Brisbane" },
+        { "mode": "bus", "costEstimate": 70, "perPerson": true, "kidDiscount": 0.5, "durationMin": 270, "note": "Greyhound coach, 4h30m direct-ish via Brisbane fringe" },
+        { "mode": "shuttle", "costEstimate": 85, "perPerson": true, "kidDiscount": 0.5, "durationMin": 200, "note": "Private inter-city shuttle or small-group transfer" }
+      ]
+    },
+    {
+      "from": "gold-coast",
+      "to": "noosa",
+      "distanceKm": 206,
+      "options": [
+        { "mode": "own-car", "costEstimate": 48, "durationMin": 160, "note": "Fuel + tolls, M1 then Bruce Highway to Noosa" },
+        { "mode": "bus", "costEstimate": 75, "perPerson": true, "kidDiscount": 0.5, "durationMin": 300, "note": "Greyhound coach via Brisbane/Sunshine Coast" },
+        { "mode": "shuttle", "costEstimate": 95, "perPerson": true, "kidDiscount": 0.5, "durationMin": 220, "note": "Private shuttle or small-group inter-city transfer" }
+      ]
+    },
+    {
+      "from": "gold-coast",
+      "to": "hinterland",
+      "distanceKm": 175,
+      "options": [
+        { "mode": "own-car", "costEstimate": 36, "durationMin": 135, "note": "Fuel, M1 north then inland via Steve Irwin Way/Montville" },
+        { "mode": "bus", "costEstimate": 55, "perPerson": true, "kidDiscount": 0.5, "durationMin": 240, "note": "Coach to Maroochydore/Nambour then regional bus to hinterland" },
+        { "mode": "shuttle", "costEstimate": 90, "perPerson": true, "kidDiscount": 0.5, "durationMin": 180, "note": "Private shuttle or group transfer to Maleny/Montville area" }
+      ]
+    },
+    {
+      "from": "brisbane",
+      "to": "sunshine-coast",
+      "distanceKm": 109,
+      "options": [
+        { "mode": "own-car", "costEstimate": 28, "durationMin": 90, "note": "Fuel + tolls, M1/Bruce Highway north" },
+        { "mode": "train", "costEstimate": 35, "perPerson": true, "kidDiscount": 0.5, "durationMin": 110, "note": "Citytrain to Nambour then connect with bus to coast" },
+        { "mode": "bus", "costEstimate": 32, "perPerson": true, "kidDiscount": 0.5, "durationMin": 120, "note": "Greyhound/coach direct to Maroochydore/Mooloolaba" },
+        { "mode": "shuttle", "costEstimate": 55, "perPerson": true, "kidDiscount": 0.5, "durationMin": 110, "note": "Door-to-door shuttle service" }
+      ]
+    },
+    {
+      "from": "brisbane",
+      "to": "noosa",
+      "distanceKm": 160,
+      "options": [
+        { "mode": "own-car", "costEstimate": 38, "durationMin": 120, "note": "Fuel + tolls, M1/Bruce Highway to Noosa" },
+        { "mode": "bus", "costEstimate": 45, "perPerson": true, "kidDiscount": 0.5, "durationMin": 150, "note": "Greyhound/Coach direct Brisbane to Noosa" },
+        { "mode": "shuttle", "costEstimate": 70, "perPerson": true, "kidDiscount": 0.5, "durationMin": 140, "note": "Private shuttle or small-group transfer" }
+      ]
+    },
+    {
+      "from": "brisbane",
+      "to": "hinterland",
+      "distanceKm": 95,
+      "options": [
+        { "mode": "own-car", "costEstimate": 24, "durationMin": 85, "note": "Fuel, Bruce Highway then Blackall Range Tourist Drive to Maleny/Montville" },
+        { "mode": "bus", "costEstimate": 35, "perPerson": true, "kidDiscount": 0.5, "durationMin": 150, "note": "Train to Nambour then regional bus to hinterland" },
+        { "mode": "shuttle", "costEstimate": 75, "perPerson": true, "kidDiscount": 0.5, "durationMin": 110, "note": "Private shuttle or group transfer" }
+      ]
+    },
+    {
+      "from": "sunshine-coast",
+      "to": "noosa",
+      "distanceKm": 45,
+      "options": [
+        { "mode": "own-car", "costEstimate": 12, "durationMin": 45, "note": "Fuel, Bruce Highway/Noosa Drive north" },
+        { "mode": "bus", "costEstimate": 18, "perPerson": true, "kidDiscount": 0.5, "durationMin": 60, "note": "Translink Sunbus route 620/622 to Noosa" },
+        { "mode": "shuttle", "costEstimate": 40, "perPerson": true, "kidDiscount": 0.5, "durationMin": 55, "note": "Private shuttle or hotel transfer" }
+      ]
+    },
+    {
+      "from": "sunshine-coast",
+      "to": "hinterland",
+      "distanceKm": 35,
+      "options": [
+        { "mode": "own-car", "costEstimate": 9, "durationMin": 40, "note": "Fuel, short drive inland to Maleny/Montville" },
+        { "mode": "bus", "costEstimate": 15, "perPerson": true, "kidDiscount": 0.5, "durationMin": 70, "note": "Translink Hinterland bus connections" },
+        { "mode": "shuttle", "costEstimate": 35, "perPerson": true, "kidDiscount": 0.5, "durationMin": 50, "note": "Private shuttle or tour transfer" }
+      ]
+    },
+    {
+      "from": "noosa",
+      "to": "hinterland",
+      "distanceKm": 75,
+      "options": [
+        { "mode": "own-car", "costEstimate": 16, "durationMin": 75, "note": "Fuel, south via Bruce Highway then inland to Maleny/Montville" },
+        { "mode": "bus", "costEstimate": 28, "perPerson": true, "kidDiscount": 0.5, "durationMin": 120, "note": "Bus to Nambour/Maroochydore then hinterland connection" },
+        { "mode": "shuttle", "costEstimate": 55, "perPerson": true, "kidDiscount": 0.5, "durationMin": 90, "note": "Private shuttle or small-group transfer" }
+      ]
+    }
+  ]
+}

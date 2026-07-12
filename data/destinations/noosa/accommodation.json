@@ -1,0 +1,275 @@
+{
+  "meta": {
+    "lastVerified": "2026-07-12",
+    "note": "All prices are ESTIMATES per night for a family of 2 adults + up to 3 children at standard rates. Holiday/school-holiday pricing will be higher. Always verify on the official website.",
+    "count": 8
+  },
+  "properties": [
+    {
+      "id": "racv-noosa-resort",
+      "name": "RACV Noosa Resort",
+      "area": "noosa-heads",
+      "url": "https://www.racv.com.au/travel-leisure/resorts/noosa-resort.html",
+      "pricePerNightFrom": 285,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking",
+        "kidsClub"
+      ],
+      "description": "Luxury family resort on Noosa Sound — lagoon-style pools, kids' water play area, kids' club, tennis courts, restaurant, bar. 1, 2 & 3 bedroom apartments with full kitchens. Free shuttle to Hastings Street.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families wanting luxury resort facilities with apartment freedom — lagoon pools and kids' club keep everyone happy.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "peppers-noosa",
+      "name": "Peppers Noosa Resort & Villas",
+      "area": "noosa-heads",
+      "url": "https://peppersnoosa.com.au/",
+      "pricePerNightFrom": 340,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking"
+      ],
+      "description": "Premium resort nestled in tropical rainforest near Noosa National Park — private villas and apartments with full kitchens, outdoor pools, spa, restaurant, bar. Peaceful luxury within walking distance of Hastings Street.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families who want rainforest seclusion with luxury touches — walk to Hastings Street through the national park.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "netanya-noosa",
+      "name": "Netanya Noosa Beachfront Resort",
+      "area": "noosa-heads",
+      "url": "https://www.netanyanoosa.com.au/",
+      "pricePerNightFrom": 395,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking",
+        "beachfront"
+      ],
+      "description": "Absolute beachfront luxury on Noosa Main Beach — 1, 2 & 3 bedroom apartments with stunning ocean views, heated pool, spa, walk directly to Hastings Street and national park. The ultimate Noosa address.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families celebrating a special occasion — absolute Hastings Street beachfront with panoramic ocean views.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "the-sebel-noosa",
+      "name": "The Sebel Noosa",
+      "area": "noosa-heads",
+      "url": "https://all.accor.com/hotel/B1A1/index.en.shtml",
+      "pricePerNightFrom": 265,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking"
+      ],
+      "description": "Apartment hotel in the heart of Noosa — 1, 2 & 3 bedroom self-contained apartments, outdoor pool, close to Hastings Street shops and Noosa Main Beach. Great mid-range option in the best location.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families wanting a central location at mid-range prices — walk everywhere from this Hastings Street apartment base.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "noosa-heads-motel",
+      "name": "Noosa Heads Motel & Holiday Apartments",
+      "area": "noosa-heads",
+      "url": "https://www.noosaheadsmotel.com.au/",
+      "pricePerNightFrom": 175,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking"
+      ],
+      "description": "Great-value motel apartments near Noosa Junction — studio, 1 and 2 bedroom self-contained apartments, outdoor pool, BBQ area, short walk to shops and restaurants. Walk or bus to Hastings Street.",
+      "bedrooms": [
+        "studio",
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Budget-conscious families — the cheapest solid option near Noosa with full kitchen and pool.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "noosa-springs-resort",
+      "name": "Noosa Springs Golf Resort & Spa",
+      "area": "noosaville",
+      "url": "https://www.noosasprings.com.au/",
+      "pricePerNightFrom": 220,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking",
+        "golf"
+      ],
+      "description": "Resort apartments on Noosa's championship golf course — 1, 2 & 3 bedroom self-contained apartments with full kitchens, outdoor pool, spa, restaurants. Peaceful setting near Noosa's waterways.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families wanting a quieter resort setting near Noosaville's waterfront dining — golf, pool, and serenity.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "noosa-outrigger",
+      "name": "Outrigger Little Hastings Street Resort & Spa",
+      "area": "noosa-heads",
+      "url": "https://www.outrigger.com.au/",
+      "pricePerNightFrom": 290,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking"
+      ],
+      "description": "Luxury apartment resort just behind Hastings Street — 1, 2 & 3 bedroom apartments with full kitchens, heated lagoon pool, day spa, tropical gardens. Steps from Noosa Main Beach but tucked away in peace.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families wanting to be steps from Hastings Street while enjoying resort tranquillity — hidden luxury behind the main strip.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "noosa-blue-resort",
+      "name": "Noosa Blue Resort",
+      "area": "noosa-heads",
+      "url": "https://www.noosablueresort.com.au/",
+      "pricePerNightFrom": 185,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking"
+      ],
+      "description": "Boutique apartment resort near Noosa Junction — 1 & 2 bedroom self-contained apartments, designer pool with cabanas, tropical gardens, walk to shops, cafes, and bus to Hastings Street. Stylish on a budget.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Style-conscious families on a budget — designer pool, full kitchen, and walk to Noosa Junction's food scene.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "sofitel-noosa",
+      "name": "Sofitel Noosa Pacific Resort",
+      "area": "noosa-heads",
+      "url": "https://www.sofitelnoosapacificresort.com.au/",
+      "pricePerNightFrom": 720,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Noosa’s grand 5-star resort on Hastings Street — lagoon pool with swim-up bar, day spa, and Main Beach across the road. The classic Noosa luxury stay.",
+      "bedrooms": [
+        "hotel_room",
+        "suite"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "The full Hastings Street 5-star experience.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "racv-noosa",
+      "name": "RACV Noosa Resort",
+      "area": "noosaville",
+      "url": "https://racv.com.au/travel-leisure/racv-resorts/noosa/",
+      "pricePerNightFrom": 450,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "waterslides",
+        "wifi",
+        "parking",
+        "kitchen",
+        "kidsClub"
+      ],
+      "description": "Sprawling family resort in Noosaville — huge lagoon pool with waterslide, kids’ water play zone, school-holiday kids activities, and self-contained villas with full kitchens.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 8,
+      "hasKitchen": true,
+      "bestFor": "The best family-resort setup in Noosa — waterslide, space, and kitchens.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "ivory-palms",
+      "name": "Ivory Palms Resort Noosaville",
+      "area": "noosaville",
+      "url": "https://www.ivorypalms.com.au/",
+      "pricePerNightFrom": 240,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "waterslides",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Family resort with three pools, a waterslide, jumping pillow, playground and games room — self-contained townhouses and apartments with full kitchens.",
+      "bedrooms": [
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 8,
+      "hasKitchen": true,
+      "bestFor": "Budget family resort with a waterslide and big units.",
+      "bestForFamilies": true
+    }
+  ]
+}

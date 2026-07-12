@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "lastVerified": "2026-07-12",
+    "note": "Supermarket locations and hours are approximate. Always verify opening hours on the chain's website or app — hours can change for public holidays and Anzac Day (typically closed morning, open from 1pm).",
+    "count": 6
+  },
+  "stores": [
+    {
+      "id": "woolies-maleny",
+      "chain": "Woolworths",
+      "name": "Woolworths Maleny",
+      "area": "maleny",
+      "address": "2 Bunya St, Maleny QLD 4552",
+      "hours": "7am–9pm daily",
+      "notes": "Full supermarket in the heart of Maleny. Short walk from village accommodation. Good for a complete grocery shop before heading to your cabin or cottage."
+    },
+    {
+      "id": "iga-maleny",
+      "chain": "IGA",
+      "name": "Seasons IGA Maleny",
+      "area": "maleny",
+      "address": "26 Maple St, Maleny QLD 4552",
+      "hours": "6am–8pm daily",
+      "notes": "Local independent supermarket on Maleny's main street. Great range of local hinterland produce, deli, and essentials. Community-focused with friendly service."
+    },
+    {
+      "id": "iga-montville",
+      "chain": "IGA",
+      "name": "IGA X-press Montville",
+      "area": "montville",
+      "address": "Shop 1, 168-170 Main St, Montville QLD 4560",
+      "hours": "7am–6:30pm daily",
+      "notes": "Convenient smaller supermarket right on Montville's Gallery Walk. Perfect for quick top-ups and essentials while staying in the Montville area."
+    },
+    {
+      "id": "iga-mapleton",
+      "chain": "IGA",
+      "name": "Mapleton IGA",
+      "area": "mapleton",
+      "address": "Flaxton Drive, Mapleton QLD 4560 (also BP service station)",
+      "hours": "6am–7pm daily",
+      "notes": "Local community supermarket and BP servo in one. Great for Mapleton and Flaxton families. Recently added post office services. Good for fuel, groceries, and局部 supplies."
+    },
+    {
+      "id": "woolies-beerwah",
+      "chain": "Woolworths",
+      "name": "Woolworths Beerwah",
+      "area": "glass-house-mountains",
+      "address": "5 Peachester Rd, Beerwah QLD 4519",
+      "hours": "7am–9pm daily",
+      "notes": "Full Woolworths near the Glass House Mountains and Australia Zoo. Best major supermarket for families staying in the Beerwah or Landsborough area."
+    },
+    {
+      "id": "iga-beerwah",
+      "chain": "IGA",
+      "name": "IGA Beerwah",
+      "area": "glass-house-mountains",
+      "address": "5 Peachester Rd, Beerwah QLD 4519",
+      "hours": "7am–8pm daily",
+      "notes": "Local independent supermarket in Beerwah. Good alternative to the major chains with local products and friendly service. Convenient for Glass House Mountains accommodation."
+    }
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "meta": {
+    "lastVerified": "2026-07-12",
+    "note": "All prices are ESTIMATES per night for a family of 2 adults + up to 3 children at standard rates. Holiday/school-holiday pricing will be higher. Always verify on the official website.",
+    "count": 12
+  },
+  "properties": [
+    {
+      "id": "rydges-south-bank",
+      "name": "Rydges South Bank Brisbane",
+      "area": "south-bank",
+      "url": "https://www.rydges.com/accommodation/brisbane-qld/south-bank-brisbane/",
+      "pricePerNightFrom": 210,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "cityViews"
+      ],
+      "description": "Modern hotel directly opposite South Bank Parklands \u2014 outdoor pool, family rooms with 2 queen beds, 24-hour room service, close to Queensland Museum, GOMA, and the Wheel of Brisbane. Walk to everything.",
+      "bedrooms": [
+        "room",
+        "family_room"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "Families wanting to be at the heart of South Bank culture and parklands \u2014 walk to museums, play areas and restaurants.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "mantra-south-bank",
+      "name": "Mantra South Bank Brisbane",
+      "area": "south-bank",
+      "url": "https://www.mantrasouthbankbrisbane.com.au/",
+      "pricePerNightFrom": 190,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking"
+      ],
+      "description": "Apartment hotel on South Bank \u2014 1, 2 & 3 bedroom self-contained apartments with full kitchens, outdoor pool, walk to South Bank Parklands, Brisbane River, and cultural precinct. Great for longer Brisbane stays.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families wanting apartment living at South Bank \u2014 full kitchen means you self-cater near the parklands.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "w-brisbane",
+      "name": "W Brisbane",
+      "area": "brisbane-cbd",
+      "url": "https://www.marriott.com/en-us/hotels/bnewi-w-brisbane/",
+      "pricePerNightFrom": 320,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kidsClub"
+      ],
+      "description": "Luxury lifestyle hotel on the Brisbane River \u2014 WET Deck pool, AWAY Spa, multiple restaurants (Three Blue Ducks), kids' welcome pack, stylish family rooms with river views. Part of the new North Quay precinct.",
+      "bedrooms": [
+        "room",
+        "suite"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "Families who want luxury in the CBD with a resort-style pool deck and unbeatable river views.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "novotel-south-bank",
+      "name": "Novotel Brisbane South Bank",
+      "area": "south-bank",
+      "url": "https://all.accor.com/hotel/0393/index.en.shtml",
+      "pricePerNightFrom": 175,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Modern 4-star hotel steps from South Bank \u2014 rooftop pool, restaurant, bar, family rooms, kids stay and eat free (conditions apply). Walking distance to parklands, Cultural Centre, and Grey Street dining.",
+      "bedrooms": [
+        "room",
+        "family_room"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "A straightforward, affordable family base in South Brisbane \u2014 kids eat free and the parklands are at your door.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "oaks-212-margaret",
+      "name": "Oaks Brisbane 212 Margaret Suites",
+      "area": "brisbane-cbd",
+      "url": "https://www.oakshotels.com/en/oaks-brisbane-212-margaret-suites",
+      "pricePerNightFrom": 160,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking"
+      ],
+      "description": "Value apartment hotel in the CBD \u2014 spacious 1 & 2 bedroom apartments with full kitchens and laundries, outdoor pool and gym. Walk to Queen Street Mall, Botanic Gardens, and the River.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Families wanting CBD convenience at apartment prices \u2014 full kitchen and laundry on a budget.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "the-johnson-brisbane",
+      "name": "The Johnson Brisbane \u2014 Art Series",
+      "area": "brisbane-cbd",
+      "url": "https://www.mantrahotels.com/art-series-the-johnson/",
+      "pricePerNightFrom": 195,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Design hotel in Spring Hill on the CBD doorstep \u2014 one of Brisbane's biggest hotel pools (50m lap pool), studio and one-bed apartment options, art-filled interiors.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Creative families who want something different \u2014 colourful art-filled spaces and a rooftop pool in the CBD.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "riverside-hotel-southbank",
+      "name": "Riverside Hotel South Bank",
+      "area": "south-bank",
+      "url": "https://www.riversidehotel.com.au/",
+      "pricePerNightFrom": 145,
+      "priceBand": "budget",
+      "features": [
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Affordable apartment hotel near South Bank \u2014 1 & 2 bedroom self-contained apartments, walk to South Bank Parklands, Cultural Centre, and Brisbane River. Simple, clean, great value.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Families watching every dollar near South Bank \u2014 self-contained apartments within walking distance of everything.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "pan-pacific-brisbane",
+      "name": "Pan Pacific Brisbane",
+      "area": "brisbane-cbd",
+      "url": "https://www.panpacific.com/en/hotels-and-resorts/pp-brisbane.html",
+      "pricePerNightFrom": 260,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Luxury hotel overlooking the Botanic Gardens and the river \u2014 outdoor pool, day spa, acclaimed restaurant (The Dior), spacious suites with kitchenettes. Premium family experience in the heart of the city.",
+      "bedrooms": [
+        "room",
+        "suite"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": true,
+      "bestFor": "Families celebrating a special occasion \u2014 luxury with Botanic Gardens views and walking distance to everything.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "hilton-brisbane",
+      "name": "Hilton Brisbane",
+      "area": "brisbane-cbd",
+      "url": "https://www.hilton.com/en/hotels/bnehihi-hilton-brisbane/",
+      "pricePerNightFrom": 290,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Iconic Brisbane hotel in Queen Street Mall \u2014 heated outdoor pool, Vintaged Bar & Grill, executive lounge, family rooms, connected to the Myer Centre. Central, luxurious, and reliable.",
+      "bedrooms": [
+        "room",
+        "suite"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "Families who want to be in the absolute centre of Brisbane \u2014 Queen Street Mall, dining, and shopping at your feet.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "portside-wharf-hamilton",
+      "name": "Link Portside Wharf Apartment Hotel",
+      "area": "hamilton-northshore",
+      "url": "https://linkportside.com/",
+      "pricePerNightFrom": 240,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking",
+        "beachfront"
+      ],
+      "description": "Waterfront apartments at Hamilton's Portside Wharf \u2014 1, 2 & 3 bedroom luxury apartments with river views, rooftop pool, walk to Eat Street Northshore markets, cruise terminal, and riverside dining. Premium location.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families wanting a riverfront base near Eat Street Northshore \u2014 self-contained luxury with easy access to the markets and cruises.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "the-calile",
+      "name": "The Calile Hotel",
+      "area": "fortitude-valley",
+      "url": "https://www.thecalilehotel.com/",
+      "pricePerNightFrom": 520,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Brisbane\u2019s famous resort-in-the-city on James Street \u2014 palm-fringed pool deck with cabanas, luxe rooms, and the Valley\u2019s best shopping and dining downstairs.",
+      "bedrooms": [
+        "hotel_room",
+        "suite"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "A genuine 5-star resort feel without leaving the city.",
+      "bestForFamilies": false
+    },
+    {
+      "id": "emporium-south-bank",
+      "name": "Emporium Hotel South Bank",
+      "area": "south-bank",
+      "url": "https://www.emporiumhotels.com.au/",
+      "pricePerNightFrom": 460,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Luxury boutique tower overlooking South Bank parklands \u2014 rooftop infinity pool with river views, opulent rooms, and Streets Beach a 5-minute walk away.",
+      "bedrooms": [
+        "hotel_room",
+        "suite"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "Rooftop-pool luxury right beside Brisbane\u2019s best free family precinct.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "oaks-charlotte-towers",
+      "name": "Oaks Brisbane on Charlotte",
+      "area": "brisbane-cbd",
+      "url": "https://www.oakshotels.com/en/oaks-brisbane-charlotte-suites/",
+      "pricePerNightFrom": 180,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Self-contained CBD apartments with full kitchens and laundry \u2014 indoor lap pool, walking distance to Queen Street Mall, botanic gardens and the river.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Apartment value in the middle of the city.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "the-star-brisbane",
+      "name": "The Star Grand Brisbane",
+      "area": "brisbane-cbd",
+      "url": "https://www.star.com.au/brisbane/",
+      "pricePerNightFrom": 380,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Brisbane\u2019s newest luxury hotel at Queen\u2019s Wharf \u2014 infinity pool on the Sky Deck, river views, and the city\u2019s biggest dining precinct downstairs.",
+      "bedrooms": [
+        "hotel_room",
+        "suite"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "New-build luxury with the best pool deck in the city.",
+      "bestForFamilies": false
+    },
+    {
+      "id": "adina-brisbane",
+      "name": "Adina Apartment Hotel Brisbane",
+      "area": "brisbane-cbd",
+      "url": "https://www.adinahotels.com/en/apartments/brisbane/",
+      "pricePerNightFrom": 210,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Heritage-facade apartment hotel near Anzac Square \u2014 kitchenettes and full kitchens, indoor pool, and Central Station two blocks away for airport and Gold Coast trains.",
+      "bedrooms": [
+        "studio",
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Kitchen convenience near the train line.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "quest-south-brisbane",
+      "name": "Quest South Brisbane",
+      "area": "south-bank",
+      "url": "https://www.questapartments.com.au/properties/qld/south-brisbane/quest-south-brisbane/",
+      "pricePerNightFrom": 195,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Serviced apartments a short walk from South Bank parklands and Streets Beach \u2014 full kitchens and laundries, rooftop pool and BBQ area, and easy access to the cultural precinct.",
+      "bedrooms": [
+        "studio",
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Budget apartment base walkable to everything at South Bank.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "ovolo-the-valley",
+      "name": "Ovolo The Valley",
+      "area": "fortitude-valley",
+      "url": "https://ovolohotels.com/ovolo/thevalley/",
+      "pricePerNightFrom": 260,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Playful designer hotel in Fortitude Valley \u2014 outdoor pool, free minibar and perks included, wild colourful interiors kids find hilarious, James Street shopping nearby.",
+      "bedrooms": [
+        "hotel_room",
+        "suite"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "A fun, quirky stay with freebies included.",
+      "bestForFamilies": true
+    }
+  ]
+}

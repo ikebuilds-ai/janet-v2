@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "lastVerified": "2026-07-12",
+    "note": "Supermarket locations and hours are approximate. Always verify opening hours on the chain's website or app.",
+    "count": 12
+  },
+  "stores": [
+    {
+      "id": "woolies-mooloolaba",
+      "chain": "Woolworths",
+      "name": "Woolworths Mooloolaba",
+      "area": "mooloolaba",
+      "address": "The Wharf Mooloolaba, 123 Parkyn Parade, Mooloolaba QLD 4557",
+      "hours": "7am–9pm daily",
+      "notes": "Full supermarket at The Wharf precinct. Walk from Mooloolaba accommodation. Combine with aquarium visit."
+    },
+    {
+      "id": "woolies-maroochydore",
+      "chain": "Woolworths",
+      "name": "Woolworths Maroochydore (Sunshine Plaza)",
+      "area": "maroochydore",
+      "address": "Sunshine Plaza Shopping Centre, Horton Parade, Maroochydore QLD 4558",
+      "hours": "7am–9pm daily",
+      "notes": "Inside Sunshine Plaza. Huge supermarket, everything you need. Combine with shopping or cinema."
+    },
+    {
+      "id": "woolies-caloundra",
+      "chain": "Woolworths",
+      "name": "Woolworths Caloundra (Stockland)",
+      "area": "caloundra",
+      "address": "Stockland Caloundra, Bowman Rd, Caloundra QLD 4551",
+      "hours": "7am–9pm daily",
+      "notes": "Full supermarket in Stockland shopping centre. Close to main Caloundra accommodation."
+    },
+    {
+      "id": "woolies-coolum",
+      "chain": "Woolworths",
+      "name": "Woolworths Coolum Beach",
+      "area": "coolum-beach",
+      "address": "Coolum Park Shopping Centre, 3/4 Birtwill St, Coolum Beach QLD 4573",
+      "hours": "7am–9pm daily",
+      "notes": "Full supermarket for Coolum Beach area. Short drive from beachfront accommodation."
+    },
+    {
+      "id": "coles-mooloolaba",
+      "chain": "Coles",
+      "name": "Coles Mooloolaba",
+      "area": "mooloolaba",
+      "address": "Coles Mooloolaba, Brisbane Rd, Mooloolaba QLD 4557",
+      "hours": "7am–9pm daily",
+      "notes": "Full Coles supermarket near the main beach area. Good range, easy parking."
+    },
+    {
+      "id": "coles-caloundra",
+      "chain": "Coles",
+      "name": "Coles Caloundra",
+      "area": "caloundra",
+      "address": "Coles Caloundra, Bulcock St, Caloundra QLD 4551",
+      "hours": "7am–9pm daily",
+      "notes": "Central Caloundra Coles. Walk from beachfront accommodation. Convenient for quick top-ups."
+    },
+    {
+      "id": "coles-cotton-tree",
+      "chain": "Coles",
+      "name": "Coles Cotton Tree",
+      "area": "maroochydore",
+      "address": "Cotton Tree Shopping Centre, 14 King St, Cotton Tree QLD 4558",
+      "hours": "7am–9pm daily",
+      "notes": "Smaller Coles but well-stocked. Walk from Cotton Tree/Maroochydore beach accommodation."
+    },
+    {
+      "id": "coles-peregian",
+      "chain": "Coles",
+      "name": "Coles Peregian Springs",
+      "area": "coolum-beach",
+      "address": "Peregian Springs Shopping Centre, The Avenue, Peregian Springs QLD 4573",
+      "hours": "7am–9pm daily",
+      "notes": "Full Coles supermarket for the Peregian/Coolum area. Good range, easy parking."
+    },
+    {
+      "id": "aldi-buderim",
+      "chain": "ALDI",
+      "name": "ALDI Buderim",
+      "area": "maroochydore",
+      "address": "Buderim Central Shopping Centre, 44 Main St, Buderim QLD 4556",
+      "hours": "8:30am–8pm daily",
+      "notes": "Cheapest grocery option. Limited but excellent range of own-brand essentials. Midway between Maroochydore and Mooloolaba."
+    },
+    {
+      "id": "aldi-caloundra",
+      "chain": "ALDI",
+      "name": "ALDI Caloundra",
+      "area": "caloundra",
+      "address": "ALDI Caloundra, 7 Baldwin St, Caloundra QLD 4551",
+      "hours": "8:30am–8pm daily",
+      "notes": "Budget-friendly supermarket for Caloundra families. Bring or buy bags."
+    },
+    {
+      "id": "iga-alex-headland",
+      "chain": "IGA",
+      "name": "IGA Alexandra Headland",
+      "area": "maroochydore",
+      "address": "Alexandra Headland Shopping Centre, 15-17 Mari St, Alexandra Headland QLD 4572",
+      "hours": "7am–8pm daily",
+      "notes": "Convenient local IGA between Maroochydore and Mooloolaba. Great for quick top-ups and local products."
+    },
+    {
+      "id": "foodworks-coolum",
+      "chain": "FoodWorks",
+      "name": "FoodWorks Coolum Beach",
+      "area": "coolum-beach",
+      "address": "FoodWorks Coolum, 19-21 Birtwill St, Coolum Beach QLD 4573",
+      "hours": "7am–8pm daily",
+      "notes": "Local community supermarket in Coolum. Good range for a smaller store. Walkable from beachfront accommodation."
+    }
+  ]
+}

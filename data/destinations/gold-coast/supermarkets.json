@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "lastVerified": "2026-07-12",
+    "note": "Supermarket locations and hours are approximate. Always verify opening hours on the chain's website or app — hours can change for public holidays, COVID-affected periods, and Anzac Day (typically closed morning, open from 1pm).",
+    "count": 22
+  },
+  "stores": [
+    {
+      "id": "woolies-surfers",
+      "chain": "Woolworths",
+      "name": "Woolworths Surfers Paradise",
+      "area": "surfers-paradise",
+      "address": "10-14 Ferny Ave, Surfers Paradise QLD 4217 (near Chevron Renaissance)",
+      "hours": "7am–9pm daily",
+      "notes": "Full supermarket. Short walk from central Surfers accommodation. Good for a full grocery shop."
+    },
+    {
+      "id": "woolies-broadbeach",
+      "chain": "Woolworths",
+      "name": "Woolworths Broadbeach (The Oasis)",
+      "area": "broadbeach",
+      "address": "The Oasis Shopping Centre, 75 Surf Parade, Broadbeach QLD 4218",
+      "hours": "7am–9pm daily",
+      "notes": "Inside The Oasis centre. Walk from Broadbeach hotels. Close to Kurrawa Beach."
+    },
+    {
+      "id": "woolies-southport",
+      "chain": "Woolworths",
+      "name": "Woolworths Southport (Australia Fair)",
+      "area": "southport",
+      "address": "Australia Fair Shopping Centre, 42 Marine Parade, Southport QLD 4215",
+      "hours": "7am–9pm daily",
+      "notes": "Inside Australia Fair shopping centre. Short drive from Southport/Labrador area. Near Broadwater Parklands."
+    },
+    {
+      "id": "woolies-coolangatta",
+      "chain": "Woolworths",
+      "name": "Woolworths The Pines (Elanora)",
+      "area": "coolangatta",
+      "address": "The Pines Shopping Centre, Guineas Creek Rd, Elanora QLD 4221",
+      "hours": "7am–9pm daily",
+      "notes": "Best Woolworths near Coolangatta area (~10 min drive). Full supermarket with everything you need."
+    },
+    {
+      "id": "woolies-burleigh",
+      "chain": "Woolworths",
+      "name": "Woolworths Burleigh Heads",
+      "area": "burleigh-heads",
+      "address": "Stockland Burleigh Heads, 149 W Burleigh Rd, Burleigh Waters QLD 4220",
+      "hours": "7am–9pm daily",
+      "notes": "Inside Stockland Burleigh. 5 min drive from Burleigh beach. Good for stocking up."
+    },
+    {
+      "id": "coles-surfers",
+      "chain": "Coles",
+      "name": "Coles Surfers Paradise",
+      "area": "surfers-paradise",
+      "address": "Gold Coast Hwy & Elkhorn Ave, Surfers Paradise QLD 4217",
+      "hours": "7am–10pm daily",
+      "notes": "Central Surfers, right on the highway. Larger Coles with everything. Late-night hours — open till 10pm."
+    },
+    {
+      "id": "coles-pacific-fair",
+      "chain": "Coles",
+      "name": "Coles Pacific Fair",
+      "area": "broadbeach",
+      "address": "Pacific Fair Shopping Centre, Hooker Blvd, Broadbeach Waters QLD 4218",
+      "hours": "7am–9pm daily",
+      "notes": "Inside Pacific Fair. Huge Coles. Combine groceries with shopping, food court, playgrounds. Ideal family stop."
+    },
+    {
+      "id": "coles-coolangatta",
+      "chain": "Coles",
+      "name": "Coles Coolangatta (The Strand)",
+      "area": "coolangatta",
+      "address": "The Strand, 72-80 Marine Parade, Coolangatta QLD 4225",
+      "hours": "7am–9pm daily",
+      "notes": "At The Strand shopping centre. Walk from Coolangatta accommodation. Compact but well-stocked."
+    },
+    {
+      "id": "coles-burleigh",
+      "chain": "Coles",
+      "name": "Coles Burleigh Heads",
+      "area": "burleigh-heads",
+      "address": "Stockland Burleigh Heads, 149 W Burleigh Rd, Burleigh Waters QLD 4220",
+      "hours": "7am–9pm daily",
+      "notes": "Inside Stockland Burleigh (same centre as Woolworths — pick your preferred). Good range."
+    },
+    {
+      "id": "aldi-southport",
+      "chain": "ALDI",
+      "name": "ALDI Southport",
+      "area": "southport",
+      "address": "127-129 Ferry Rd, Southport QLD 4215",
+      "hours": "8:30am–8pm daily",
+      "notes": "Cheapest option by far. Limited but excellent range of own-brand essentials. You'd be surprised what you can get."
+    },
+    {
+      "id": "aldi-mermaid",
+      "chain": "ALDI",
+      "name": "ALDI Mermaid Waters",
+      "area": "robina",
+      "address": "Q Super Centre, Markeri St & Bermuda St, Mermaid Waters QLD 4218",
+      "hours": "8:30am–8pm daily",
+      "notes": "Inside Q Super Centre. Between Broadbeach and Burleigh. Great for budget grocery runs."
+    },
+    {
+      "id": "aldi-burleigh",
+      "chain": "ALDI",
+      "name": "ALDI Burleigh Waters",
+      "area": "burleigh-heads",
+      "address": "West Burleigh Rd, Burleigh Waters QLD 4220 (near Stockland)",
+      "hours": "8:30am–8pm daily",
+      "notes": "Close to Burleigh accommodation. Budget-friendly. Remember to bring or buy bags (ALDI doesn't give free bags)."
+    },
+    {
+      "id": "aldi-robina",
+      "chain": "ALDI",
+      "name": "ALDI Robina",
+      "area": "robina",
+      "address": "Robina Town Centre Dr, Robina QLD 4226 (near Robina Town Centre)",
+      "hours": "8:30am–8pm daily",
+      "notes": "Near Robina Town Centre. Good pit-stop if exploring the central/suburban GC."
+    },
+    {
+      "id": "iga-broadbeach",
+      "chain": "IGA",
+      "name": "IGA Broadbeach",
+      "area": "broadbeach",
+      "address": "26-28 Queensland Ave, Broadbeach QLD 4218",
+      "hours": "7am–9pm daily",
+      "notes": "Convenient smaller supermarket. Walking distance from Broadbeach hotels. Great for quick top-ups."
+    },
+    {
+      "id": "iga-burleigh",
+      "chain": "IGA",
+      "name": "IGA Miami / Burleigh",
+      "area": "burleigh-heads",
+      "address": "1934 Gold Coast Hwy, Miami QLD 4220 (between Burleigh and Mermaid)",
+      "hours": "7am–9pm daily",
+      "notes": "Good midway supermarket between Burleigh and Broadbeach. Independent, great range of local products."
+    },
+    {
+      "id": "iga-coolangatta",
+      "chain": "IGA",
+      "name": "IGA Coolangatta",
+      "area": "coolangatta",
+      "address": "Musgrave St & Marine Parade, Coolangatta QLD 4225",
+      "hours": "7am–9pm daily",
+      "notes": "Walkable from Coolangatta holiday apartments. Good for quick supplies without driving."
+    },
+    {
+      "id": "iga-mermaid-beach",
+      "chain": "IGA",
+      "name": "IGA Mermaid Park",
+      "area": "robina",
+      "address": "Shop 2, 2541 Gold Coast Hwy, Mermaid Beach QLD 4218",
+      "hours": "7am–8pm daily",
+      "notes": "Small but well-stocked local IGA. Near Mermaid Beach accommodation. Good for essentials."
+    },
+    {
+      "id": "foodworks-labrador",
+      "chain": "FoodWorks",
+      "name": "FoodWorks Labrador",
+      "area": "southport",
+      "address": "100 Brisbane Rd, Labrador QLD 4215",
+      "hours": "7am–8pm daily",
+      "notes": "Local FoodWorks in Labrador. Good alternative to the big chains. Reasonable prices, community-focused."
+    },
+    {
+      "id": "foodworks-mermaid",
+      "chain": "FoodWorks",
+      "name": "FoodWorks Mermaid Beach",
+      "area": "robina",
+      "address": "2350 Gold Coast Hwy, Mermaid Beach QLD 4218",
+      "hours": "7am–8pm daily",
+      "notes": "Handy roadside FoodWorks on the highway. Convenient stop if driving along the coastal strip."
+    },
+    {
+      "id": "spar-carrara",
+      "chain": "SPAR",
+      "name": "SPAR Carrara",
+      "area": "hinterland",
+      "address": "Carrara Markets precinct, Gooding Dr, Carrara QLD 4211",
+      "hours": "8am–7pm daily",
+      "notes": "SPAR convenience supermarket near Carrara Markets. Smaller range but good for quick supplies. Open Sundays."
+    },
+    {
+      "id": "coles-southport-park",
+      "chain": "Coles",
+      "name": "Coles Southport Park",
+      "area": "southport",
+      "address": "Southport Park Shopping Centre, 163-171 Ferry Rd, Southport QLD 4215",
+      "hours": "7am–9pm daily",
+      "notes": "Well-stocked Coles at Southport Park. Easy parking. Good for families staying in Southport/Labrador area."
+    },
+    {
+      "id": "woolies-robina",
+      "chain": "Woolworths",
+      "name": "Woolworths Robina Town Centre",
+      "area": "robina",
+      "address": "Robina Town Centre, Robina Town Centre Dr, Robina QLD 4226",
+      "hours": "7am–9pm daily",
+      "notes": "Inside Robina Town Centre. Massive shopping centre — combine groceries with entertainment, cinema, dining. Good indoor option on hot/rainy days."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Sunshine Coast Hinterland Holiday Builder 🌿",
+  "slug": "hinterland",
+  "destinationId": "hinterland",
+  "displayName": "Sunshine Coast Hinterland",
+  "heroTagline": "Rainforest retreats, mountain lookouts, and farm-fresh charm — Queensland's green escape.",
+  "region": {
+    "city": "Sunshine Coast Hinterland",
+    "state": "Queensland",
+    "country": "Australia",
+    "currency": "AUD",
+    "currencySymbol": "$",
+    "description": "Lush rainforest, volcanic peaks, waterfall walks, and charming mountain villages — the hinterland offers a slower, greener family holiday with cabins, farm stays, and stunning lookouts."
+  },
+  "areas": [
+    { "id": "maleny", "name": "Maleny", "description": "The heart of the hinterland — dairy farms, botanic gardens, Mary Cairncross Reserve, boutique cafes, and stunning Glass House Mountain views." },
+    { "id": "montville", "name": "Montville", "description": "Charming mountain village — Gallery Walk artisan shops, rainforest retreats, waterfall walks at Kondalilla, and escarpment dining with panoramic views." },
+    { "id": "mapleton", "name": "Mapleton", "description": "Quiet hinterland town surrounded by rainforest — Mapleton Falls, gentle walks, and a relaxed village atmosphere perfect for unwinding." },
+    { "id": "glass-house-mountains", "name": "Glass House Mountains", "description": "Dramatic volcanic peaks and scenic lookouts — family-friendly walks, Australia Zoo nearby, and iconic Queensland landscapes." }
+  ],
+  "areaDistances": {
+    "maleny": { "montville": 12, "mapleton": 18, "glass-house-mountains": 25 },
+    "montville": { "maleny": 12, "mapleton": 8, "glass-house-mountains": 30 },
+    "mapleton": { "maleny": 18, "montville": 8, "glass-house-mountains": 32 },
+    "glass-house-mountains": { "maleny": 25, "montville": 30, "mapleton": 32 }
+  },
+  "transport": {
+    "flyingIn": {
+      "fromBrisbane": { "driveMinutes": 75, "tollEstimate": 10 },
+      "fromSunshineCoastAirport": { "driveMinutes": 35, "tollEstimate": 0 }
+    },
+    "driving": {
+      "fuelPerKmEstimate": 0.15,
+      "parkingNote": "Most hinterland attractions offer free parking. Village parking in Montville and Maleny can be tight on weekends — arrive before 10am."
+    },
+    "airportTransfer": {
+      "familyShuttle": "Approx. $90-$130 family return from Sunshine Coast Airport to Maleny.",
+      "rideShare": "Approx. $55-$80 from Sunshine Coast Airport to Maleny."
+    }
+  },
+  "supermarketChains": [
+    { "chain": "Woolworths", "url": "https://www.woolworths.com.au" },
+    { "chain": "Coles", "url": "https://www.coles.com.au" },
+    { "chain": "ALDI", "url": "https://www.aldi.com.au" },
+    { "chain": "IGA", "url": "https://www.iga.com.au" },
+    { "chain": "FoodWorks", "url": "https://www.foodworks.com.au" },
+    { "chain": "SPAR", "url": "https://www.spar.com.au" }
+  ],
+  "meta": {
+    "dataGenerated": "2026-07-12",
+    "priceAccuracyNote": "All prices and costs are estimates generated on 2026-07-12. Availability and final pricing must be confirmed with each provider. The Sunshine Coast Hinterland Holiday Builder does not sell tickets, take bookings, or hold money.",
+    "disclaimer": "Not affiliated with or endorsed by any listed accommodation, attraction, restaurant, or retail business. Logos and trademarks belong to their respective owners.",
+    "forkDetails": {
+      "isTemplate": true,
+      "license": "MIT",
+      "attribution": "Based on Gold Coast Holiday Builder by Erosium (erosium.com.au).",
+      "makeItYours": "To create a Holiday Builder for YOUR city: edit this region.json and the 4 catalogue files, then deploy. See README for full instructions."
+    }
+  }
+}

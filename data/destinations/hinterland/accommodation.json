@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "lastVerified": "2026-07-12",
+    "note": "All prices are ESTIMATES per night for a family of 2 adults + up to 3 children at standard rates. Holiday/school-holiday pricing will be higher. Always verify on the official website.",
+    "count": 8
+  },
+  "properties": [
+    {
+      "id": "spicers-clovelly",
+      "name": "Spicers Clovelly Estate",
+      "area": "montville",
+      "url": "https://www.spicersretreats.com/clovelly-estate/",
+      "pricePerNightFrom": 420,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Luxury French-provincial estate nestled in rainforest near Montville — private villas and suites, heated outdoor pool, acclaimed The Long Apron restaurant, manicured gardens, and tranquil hinterland views. A premium escape for discerning families.",
+      "bedrooms": [
+        "room",
+        "suite"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "Families celebrating a special occasion — luxury estate living with fine dining and rainforest seclusion.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "narrows-escape",
+      "name": "Narrows Escape Rainforest Retreat",
+      "area": "montville",
+      "url": "https://narrowsescape.com.au/",
+      "pricePerNightFrom": 310,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Award-winning rainforest pavilions hidden among ancient trees near Montville — private pavilions with spa baths, fireplaces, full kitchens, and private decks. Adults-oriented retreat but older families welcome. Surrounded by Kondalilla National Park.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Families with older children wanting a luxury rainforest immersion — spa baths, fireplaces, and total privacy.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "maleny-lodge",
+      "name": "Maleny Lodge Boutique Accommodation",
+      "area": "maleny",
+      "url": "https://www.malenylodge.com.au/",
+      "pricePerNightFrom": 195,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Heritage boutique accommodation on a leafy residential street in Maleny — uniquely appointed king ensuite rooms and a charming 3-bedroom heritage house. Outdoor swimming pool, garden, and BBQ. Walk to Maleny's cafes and main street.",
+      "bedrooms": [
+        "room",
+        "family_room",
+        "three_bedroom"
+      ],
+      "sleepsMax": 6,
+      "hasKitchen": true,
+      "bestFor": "Families wanting character-filled heritage accommodation within walking distance of Maleny village.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "montville-mountain-inn",
+      "name": "Montville Mountain Inn Resort",
+      "area": "montville",
+      "url": "https://www.montvilleinn.com.au/",
+      "pricePerNightFrom": 165,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Tudor-style resort in the heart of Montville — 26 spacious modern suites with kitchenettes, saltwater swimming pool, full-size tennis court, BBQ area, and tropical gardens. Montville Cafe Bar & Grill next door. Walk to Gallery Walk.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Families wanting affordable, comfortable accommodation right in Montville village with a pool and tennis court.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "maleny-hotel",
+      "name": "Maleny Hotel",
+      "area": "maleny",
+      "url": "https://www.malenyhotel.com.au/",
+      "pricePerNightFrom": 130,
+      "priceBand": "budget",
+      "features": [
+        "wifi",
+        "parking"
+      ],
+      "description": "Historic family-friendly pub in the centre of Maleny — pub-style rooms upstairs, classic bistro downstairs, beer garden, and live music. Simple, affordable, and full of local character. Walk to everything in Maleny.",
+      "bedrooms": [
+        "room",
+        "family_room"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "Budget-conscious families who want a authentic pub stay in the heart of Maleny village.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "maleny-luxury-cottages",
+      "name": "Maleny Luxury Cottages",
+      "area": "maleny",
+      "url": "https://malenyluxurycottages.com.au/",
+      "pricePerNightFrom": 280,
+      "priceBand": "premium",
+      "features": [
+        "kitchen",
+        "wifi",
+        "parking"
+      ],
+      "description": "Architect-designed cottages hidden amongst hinterland forest near Maleny — king beds, spa baths, fireplaces, full kitchens, and private decks with forest views. Only 15 minutes to Maleny's cafes and the Dairy.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Families wanting designer cabin luxury with spa baths and fireplaces in a private forest setting.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "landsborough-holiday-park",
+      "name": "Landsborough Holiday Park",
+      "area": "glass-house-mountains",
+      "url": "https://www.landsboroughholidaypark.com.au/",
+      "pricePerNightFrom": 95,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Pet-friendly holiday park next door to Australia Zoo — cabins, caravan sites, and camping with pool, camp kitchen, BBQ areas, and playground. Tropical grounds and easy access to Glass House Mountains walks. Budget hinterland base.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 6,
+      "hasKitchen": true,
+      "bestFor": "Families on a tight budget wanting cabin or camping accommodation with a pool, next to Australia Zoo.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "mapleton-cabins-caravan",
+      "name": "Mapleton Cabins & Caravan Park",
+      "area": "mapleton",
+      "url": "https://www.mapletoncabins.com.au/",
+      "pricePerNightFrom": 110,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Peaceful hinterland park in Mapleton — self-contained cabins, camping and caravan sites, outdoor pool, camp kitchen, and BBQ areas. Surrounded by rainforest, close to Mapleton Falls. A budget nature retreat.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 6,
+      "hasKitchen": true,
+      "bestFor": "Families wanting an affordable rainforest base near Mapleton Falls with cabin comfort and a pool.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "spicers-tamarind",
+      "name": "Spicers Tamarind Retreat",
+      "area": "maleny",
+      "url": "https://spicersretreats.com/spicers-tamarind-retreat-maleny/",
+      "pricePerNightFrom": 620,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Luxury rainforest villas by Gardners Falls in Maleny — private decks with outdoor baths, award-winning Asian-fusion restaurant, day spa among the trees.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "A grown-up luxury escape in the rainforest (older kids fine).",
+      "bestForFamilies": false
+    }
+  ]
+}

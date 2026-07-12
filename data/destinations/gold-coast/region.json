@@ -1,0 +1,65 @@
+{
+  "name": "Gold Coast Holiday Builder 🏖️",
+  "slug": "gold-coast",
+  "region": {
+    "city": "Gold Coast",
+    "state": "Queensland",
+    "country": "Australia",
+    "currency": "AUD",
+    "currencySymbol": "$",
+    "description": "Australia's premier family holiday destination — golden beaches, world-class theme parks, lush hinterland, and family-friendly everything."
+  },
+  "areas": [
+    { "id": "surfers-paradise", "name": "Surfers Paradise", "description": "Iconic beach, buzzing nightlife, family attractions, shopping — the heart of the Gold Coast." },
+    { "id": "broadbeach", "name": "Broadbeach", "description": "Dining hub, Pacific Fair shopping, Kurrawa Beach, quieter than Surfers but still central." },
+    { "id": "main-beach", "name": "Main Beach / The Spit", "description": "Marina Mirage, Sea World, calmer beaches, more relaxed vibe." },
+    { "id": "coolangatta", "name": "Coolangatta", "description": "Southern Gold Coast, twin towns with Tweed Heads, beautiful beaches, surf culture." },
+    { "id": "burleigh-heads", "name": "Burleigh Heads", "description": "National park headland, surf breaks, village shopping, very family-friendly beach." },
+    { "id": "southport", "name": "Southport / Labrador", "description": "Broadwater parklands, Australia Fair shopping, Chinatown, family picnic spots." },
+    { "id": "robina", "name": "Robina / Mermaid Beach", "description": "Robina Town Centre shopping, Cbus Super Stadium, Pacific Fair nearby." },
+    { "id": "hinterland", "name": "Gold Coast Hinterland", "description": "Tamborine Mountain, Springbrook, glow worm caves, rainforest walks, wineries." }
+  ],
+  "areaDistances": {
+    "surfers-paradise": { "broadbeach": 5, "main-beach": 4, "coolangatta": 25, "burleigh-heads": 10, "southport": 5, "robina": 10, "hinterland": 35 },
+    "broadbeach": { "surfers-paradise": 5, "main-beach": 6, "coolangatta": 20, "burleigh-heads": 5, "southport": 10, "robina": 5, "hinterland": 30 },
+    "main-beach": { "surfers-paradise": 4, "broadbeach": 6, "coolangatta": 27, "burleigh-heads": 12, "southport": 3, "robina": 12, "hinterland": 37 },
+    "coolangatta": { "surfers-paradise": 25, "broadbeach": 20, "main-beach": 27, "burleigh-heads": 15, "southport": 27, "robina": 18, "hinterland": 55 },
+    "burleigh-heads": { "surfers-paradise": 10, "broadbeach": 5, "main-beach": 12, "coolangatta": 15, "southport": 12, "robina": 8, "hinterland": 30 },
+    "southport": { "surfers-paradise": 5, "broadbeach": 10, "main-beach": 3, "coolangatta": 27, "burleigh-heads": 12, "robina": 12, "hinterland": 35 },
+    "robina": { "surfers-paradise": 10, "broadbeach": 5, "main-beach": 12, "coolangatta": 18, "burleigh-heads": 8, "southport": 12, "hinterland": 25 },
+    "hinterland": { "surfers-paradise": 35, "broadbeach": 30, "main-beach": 37, "coolangatta": 55, "burleigh-heads": 30, "southport": 35, "robina": 25 }
+  },
+  "transport": {
+    "flyingIn": {
+      "fromBrisbane": { "driveMinutes": 60, "tollEstimate": 10 },
+      "fromCoolangatta": { "driveMinutes": 35, "tollEstimate": 0 }
+    },
+    "driving": {
+      "fuelPerKmEstimate": 0.15,
+      "parkingNote": "Many accommodations include free parking. Street parking in central Surfers can be paid ($4-8/hr). Theme parks include free parking."
+    },
+    "airportTransfer": {
+      "familyShuttle": "Approx. $80-$120 family return from Coolangatta Airport to Surfers Paradise.",
+      "rideShare": "Approx. $55-$85 from Coolangatta Airport to Surfers Paradise."
+    }
+  },
+  "supermarketChains": [
+    { "chain": "Woolworths", "url": "https://www.woolworths.com.au" },
+    { "chain": "Coles", "url": "https://www.coles.com.au" },
+    { "chain": "ALDI", "url": "https://www.aldi.com.au" },
+    { "chain": "IGA", "url": "https://www.iga.com.au" },
+    { "chain": "FoodWorks", "url": "https://www.foodworks.com.au" },
+    { "chain": "SPAR", "url": "https://www.spar.com.au" }
+  ],
+  "meta": {
+    "dataGenerated": "2026-07-12",
+    "priceAccuracyNote": "All prices and costs are estimates generated on 2026-07-12. Availability and final pricing must be confirmed with each provider. The Gold Coast Holiday Builder does not sell tickets, take bookings, or hold money.",
+    "disclaimer": "Not affiliated with or endorsed by any listed accommodation, attraction, restaurant, or retail business. Logos and trademarks belong to their respective owners.",
+    "forkDetails": {
+      "isTemplate": true,
+      "license": "MIT",
+      "attribution": "Based on Gold Coast Holiday Builder by Erosium (erosium.com.au).",
+      "makeItYours": "To create a Holiday Builder for YOUR city: edit this region.json and the 4 catalogue files, then deploy. See README for full instructions."
+    }
+  }
+}

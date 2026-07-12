@@ -1,0 +1,68 @@
+{
+  "name": "Sunshine Coast Holiday Builder 🌊",
+  "slug": "sunshine-coast",
+  "destinationId": "sunshine-coast",
+  "displayName": "Sunshine Coast",
+  "heroTagline": "Golden beaches, hinterland charm, and laid-back family fun — Queensland's original coastal playground.",
+  "region": {
+    "city": "Sunshine Coast",
+    "state": "Queensland",
+    "country": "Australia",
+    "currency": "AUD",
+    "currencySymbol": "$",
+    "description": "A perfect blend of stunning beaches, lush hinterland, and family-friendly attractions — from Australia Zoo to Mooloolaba's pristine shoreline. More relaxed than the Gold Coast but packed with holiday memories."
+  },
+  "areas": [
+    { "id": "maroochydore", "name": "Maroochydore", "description": "Central hub with Sunshine Plaza shopping, Cotton Tree Park, and Maroochydore patrolled beach. Great central base for exploring." },
+    { "id": "mooloolaba", "name": "Mooloolaba", "description": "The Sunshine Coast's most popular beach town — SEA LIFE aquarium, Wharf dining, and one of Australia's best beaches." },
+    { "id": "caloundra", "name": "Caloundra", "description": "Southern Sunshine Coast with family beaches, Kings Beach water fountain, and laid-back coastal charm. Close to Australia Zoo." },
+    { "id": "coolum-beach", "name": "Coolum Beach", "description": "Relaxed beach town with great surfing, coastal walking tracks, and a friendly village atmosphere. Quieter than Mooloolaba." },
+    { "id": "noosa-heads", "name": "Noosa Heads (nearby)", "description": "Day-trip to iconic Hastings Street, Noosa Main Beach, and Noosa National Park. Queensland's most glamorous beach town." },
+    { "id": "hinterland", "name": "Sunshine Coast Hinterland", "description": "Maleny, Montville, and the Glass House Mountains — lush rainforest, waterfalls, farms, and stunning mountain views." },
+    { "id": "beerwah", "name": "Beerwah", "description": "Home of Australia Zoo — the Crocodile Hunter's legacy lives on in this iconic wildlife park." },
+    { "id": "yandina", "name": "Yandina", "description": "Home of the iconic Ginger Factory and nearby artisan food producers." }
+  ],
+  "areaDistances": {
+    "maroochydore": { "mooloolaba": 6, "caloundra": 15, "coolum-beach": 12, "noosa-heads": 35, "hinterland": 25, "beerwah": 30, "yandina": 20 },
+    "mooloolaba": { "maroochydore": 6, "caloundra": 20, "coolum-beach": 8, "noosa-heads": 30, "hinterland": 18, "beerwah": 35, "yandina": 15 },
+    "caloundra": { "maroochydore": 15, "mooloolaba": 20, "coolum-beach": 22, "noosa-heads": 45, "hinterland": 30, "beerwah": 20, "yandina": 35 },
+    "coolum-beach": { "maroochydore": 12, "mooloolaba": 8, "caloundra": 22, "noosa-heads": 25, "hinterland": 20, "beerwah": 40, "yandina": 22 },
+    "noosa-heads": { "maroochydore": 35, "mooloolaba": 30, "caloundra": 45, "coolum-beach": 25, "hinterland": 35, "beerwah": 55, "yandina": 40 },
+    "hinterland": { "maroochydore": 25, "mooloolaba": 18, "caloundra": 30, "coolum-beach": 20, "noosa-heads": 35, "beerwah": 30, "yandina": 20 },
+    "beerwah": { "maroochydore": 30, "mooloolaba": 35, "caloundra": 20, "coolum-beach": 40, "noosa-heads": 55, "hinterland": 30, "yandina": 20 },
+    "yandina": { "maroochydore": 20, "mooloolaba": 15, "caloundra": 35, "coolum-beach": 22, "noosa-heads": 40, "hinterland": 20, "beerwah": 20 }
+  },
+  "transport": {
+    "flyingIn": {
+      "fromBrisbane": { "driveMinutes": 60, "tollEstimate": 10 },
+      "fromSunshineCoastAirport": { "driveMinutes": 15, "tollEstimate": 0 }
+    },
+    "driving": {
+      "fuelPerKmEstimate": 0.15,
+      "parkingNote": "Beachfront parking fills fast in peak season. Arrive by 9am. Paid parking at Mooloolaba Wharf ($). Most accommodations include free parking."
+    },
+    "airportTransfer": {
+      "familyShuttle": "Approx. $60-$90 family return from Sunshine Coast Airport to Mooloolaba.",
+      "rideShare": "Approx. $35-$50 from Sunshine Coast Airport to Mooloolaba."
+    }
+  },
+  "supermarketChains": [
+    { "chain": "Woolworths", "url": "https://www.woolworths.com.au" },
+    { "chain": "Coles", "url": "https://www.coles.com.au" },
+    { "chain": "ALDI", "url": "https://www.aldi.com.au" },
+    { "chain": "IGA", "url": "https://www.iga.com.au" },
+    { "chain": "FoodWorks", "url": "https://www.foodworks.com.au" },
+    { "chain": "SPAR", "url": "https://www.spar.com.au" }
+  ],
+  "meta": {
+    "dataGenerated": "2026-07-12",
+    "priceAccuracyNote": "All prices and costs are estimates generated on 2026-07-12. Availability and final pricing must be confirmed with each provider. The Sunshine Coast Holiday Builder does not sell tickets, take bookings, or hold money.",
+    "disclaimer": "Not affiliated with or endorsed by any listed accommodation, attraction, restaurant, or retail business. Logos and trademarks belong to their respective owners.",
+    "forkDetails": {
+      "isTemplate": true,
+      "license": "MIT",
+      "attribution": "Based on Gold Coast Holiday Builder by Erosium (erosium.com.au).",
+      "makeItYours": "To create a Holiday Builder for YOUR city: edit this region.json and the 4 catalogue files, then deploy. See README for full instructions."
+    }
+  }
+}

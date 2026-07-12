@@ -1,0 +1,641 @@
+{
+  "meta": {
+    "lastVerified": "2026-07-12",
+    "note": "All prices are ESTIMATES per night for a family of 2 adults + up to 3 children at standard rates. Holiday/school-holiday pricing will be higher. Always verify on the official website.",
+    "count": 18
+  },
+  "properties": [
+    {
+      "id": "paradise-resort",
+      "name": "Paradise Resort Gold Coast",
+      "area": "surfers-paradise",
+      "url": "https://paradiseresort.com.au/",
+      "pricePerNightFrom": 220,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "waterslides",
+        "kidsClub",
+        "wifi",
+        "parking"
+      ],
+      "description": "Australia's best family resort — 2 waterparks with 5 waterslides, giant tipping bucket, junior splash zone, free kids club (0-12 years), daily activities, ice-skating rink, playground, family rooms that sleep 5–6, two-bedroom options with kitchenette. Walking distance to Surfers Paradise beach.",
+      "bedrooms": [
+        "family_room",
+        "two_bedroom"
+      ],
+      "sleepsMax": 6,
+      "hasKitchen": true,
+      "bestFor": "Families who want waterpark thrills without leaving the hotel — built entirely around kids.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "turtle-beach",
+      "name": "Turtle Beach Resort",
+      "area": "robina",
+      "url": "https://turtlebeach.com.au/",
+      "pricePerNightFrom": 195,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "waterslides",
+        "kidsClub",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Award-winning family resort — splash zone waterpark, 4 pools including toddler pool, games room, cinema, putt-putt mini golf, tennis court, fitness centre. All apartments are self-contained with full kitchen and laundry. Set in lush tropical gardens 200m from Mermaid Beach.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 8,
+      "hasKitchen": true,
+      "bestFor": "Families wanting resort-style facilities with full apartment living — kitchens mean you self-cater.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "seaworld-resort",
+      "name": "Sea World Resort",
+      "area": "main-beach",
+      "url": "https://seaworldresort.com.au/",
+      "pricePerNightFrom": 320,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "kidsClub",
+        "wifi",
+        "parking",
+        "beachfront"
+      ],
+      "description": "Directly connected to Sea World theme park — themed family rooms, lagoon-style swimming pool with shallow wading area, kids activity centre, characters on-site, buffet breakfast available. Spit beach walking distance.",
+      "bedrooms": [
+        "family_room",
+        "suite"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": false,
+      "bestFor": "Sea World fans — wake up and walk straight into the park. Annual pass bundles often available.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "gold-coast-marriott",
+      "name": "JW Marriott Gold Coast Resort & Spa",
+      "area": "surfers-paradise",
+      "url": "https://www.marriott.com/en-us/hotels/ooljw-jw-marriott-gold-coast-resort-and-spa/",
+      "pricePerNightFrom": 420,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "waterslides",
+        "kidsClub",
+        "wifi",
+        "parking"
+      ],
+      "description": "Recently refurbished luxury family resort — famous saltwater lagoon pool with waterslides, tropical fish and snorkelling, freshwater pool, private saltwater beach, dedicated kids club, multiple restaurants. Premium family experience.",
+      "bedrooms": [
+        "room",
+        "suite"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "Families who want luxury AND waterslides — the best of both worlds. Worth the splurge for a shorter stay.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "mantra-on-view",
+      "name": "Mantra on View",
+      "area": "surfers-paradise",
+      "url": "https://all.accor.com/hotel/B1A2/index.en.shtml",
+      "pricePerNightFrom": 165,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Value-packed apartment hotel one block from Surfers beach — full kitchens, ocean-view rooms available, outdoor pool, close to Cavill Ave restaurants and shops. Simple, clean, no-frills. Good base for families on a tight budget.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Budget-conscious families who just need a clean comfortable base and want self-catering.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "meriton-suites-surfers",
+      "name": "Meriton Suites Surfers Paradise",
+      "area": "surfers-paradise",
+      "url": "https://www.meritonsuites.com.au/hotels/surfers-paradise/",
+      "pricePerNightFrom": 230,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Modern high-rise apartment suites — indoor and outdoor pools, spa, sauna, full kitchens and laundries, spacious living areas, some rooms with ocean views, secure parking. Walk to beach and Cavill Ave. Two-bedroom suites comfortable for families of 5.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 6,
+      "hasKitchen": true,
+      "bestFor": "Families who want apartment space + kitchen at hotel quality — solid middle-ground pick.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "qt-gold-coast",
+      "name": "QT Gold Coast",
+      "area": "surfers-paradise",
+      "url": "https://www.qthotels.com/gold-coast/",
+      "pricePerNightFrom": 320,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Design-forward hotel with a fun, vibrant vibe — outdoor pool, spaQ (day spa), Yamagen Japanese restaurant on-site, Bazaar interactive marketplace dining. Family suites available. Beach across the road. Stylish without being stuffy.",
+      "bedrooms": [
+        "room",
+        "suite"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": false,
+      "bestFor": "Families who want style and great on-site dining — Bazaar buffet is a family dinner event.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "peppers-soul",
+      "name": "Peppers Soul Surfers Paradise",
+      "area": "surfers-paradise",
+      "url": "https://pepperssoul.com.au/",
+      "pricePerNightFrom": 520,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "beachfront",
+        "kitchen"
+      ],
+      "description": "Gold Coast's tallest residential tower — absolute beachfront, floor-to-ceiling ocean views, stunning infinity pool, spa, gym, luxury apartments with full kitchens. Two-bedroom apartments sleep 5-6. Steps from the sand.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 6,
+      "hasKitchen": true,
+      "bestFor": "Families celebrating a special occasion — luxury apartment living with unbeatable views.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "the-star-grand",
+      "name": "The Star Grand at The Star Gold Coast",
+      "area": "broadbeach",
+      "url": "https://www.star.com.au/goldcoast/hotels-and-spa/the-star-grand",
+      "pricePerNightFrom": 320,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Luxury resort hotel in Broadbeach — lagoon pool with cabanas, multiple restaurants (Garden Kitchen & Bar, Kiyomi, Cucina Vivo), day spa. Walking distance to Pacific Fair and the beach. Family rooms available.",
+      "bedrooms": [
+        "room",
+        "suite"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": false,
+      "bestFor": "Families who want restaurants, pool luxury, and Pacific Fair shopping at the door.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "sheraton-grand-mirage",
+      "name": "Sheraton Grand Mirage Resort",
+      "area": "main-beach",
+      "url": "https://www.marriott.com/en-us/hotels/oolsg-sheraton-grand-mirage-resort-gold-coast/",
+      "pricePerNightFrom": 450,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "beachfront"
+      ],
+      "description": "Absolute beachfront luxury — massive lagoon-style pool, direct beach access, Terraces Restaurant (seafood buffet), Oyster Bar, day spa, lush tropical gardens. Family suites and interconnecting rooms. A Gold Coast icon.",
+      "bedrooms": [
+        "room",
+        "suite"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": false,
+      "bestFor": "Beachfront luxury for families — the pool alone keeps kids entertained all day.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "crowne-plaza-surfers",
+      "name": "Crowne Plaza Surfers Paradise",
+      "area": "surfers-paradise",
+      "url": "https://surfersparadise.crowneplaza.com/",
+      "pricePerNightFrom": 250,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Twin-tower hotel in central Surfers — outdoor pool with kids splash area, family dining, close to tram stop, secure parking. Reliable chain-hotel quality with generous family rooms.",
+      "bedrooms": [
+        "family_room",
+        "suite"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": false,
+      "bestFor": "Families wanting predictable chain-hotel comfort in the heart of Surfers.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "novotel-surfers",
+      "name": "Novotel Surfers Paradise",
+      "area": "surfers-paradise",
+      "url": "https://all.accor.com/hotel/0392/index.en.shtml",
+      "pricePerNightFrom": 180,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Solid mid-range hotel across from the beach — outdoor pool, restaurant, bar, family rooms with 2 double beds, kids stay and eat free (conditions apply). Reliable family pick close to the G:link tram.",
+      "bedrooms": [
+        "room",
+        "family_room"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "A straightforward, affordable, hassle-free family stay — no surprises, kids eat free deal.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "rhythm-broadbeach",
+      "name": "The Star Residences — Rhythm Broadbeach",
+      "area": "broadbeach",
+      "url": "https://www.star.com.au/goldcoast/hotels-and-spa/the-star-residences",
+      "pricePerNightFrom": 240,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Modern apartment tower — full kitchens and laundries, pool with sun deck, gym, walk to Pacific Fair (300m) and the beach (400m), secure parking. Clean, contemporary apartment living at a great Broadbeach location.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Families wanting Broadbeach at apartment prices — Pacific Fair is your back yard.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "q1-resort",
+      "name": "Q1 Resort & Spa",
+      "area": "surfers-paradise",
+      "url": "https://www.q1.com.au/",
+      "pricePerNightFrom": 240,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Australia's tallest residential tower — 2 lagoon pools, indoor pool, spa, steam room, full kitchens. One and two-bedroom apartments with spectacular views. SkyPoint Observation Deck on-site. Walk to beach, tram at doorstep.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 6,
+      "hasKitchen": true,
+      "bestFor": "Iconic Gold Coast address with apartment practicality — the SkyPoint deck on-site is a bonus.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "breakfree-diamond-beach",
+      "name": "BreakFree Diamond Beach",
+      "area": "broadbeach",
+      "url": "https://www.breakfree.com.au/hotels/qld/gold-coast/diamond-beach-resort",
+      "pricePerNightFrom": 180,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Family-oriented apartment hotel — outdoor lagoon pool, kids wading pool, tennis court, games room. Short walk to Broadbeach dining strip and beach. Generous two-bedroom apartments with kitchen, laundry, spacious living areas.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 6,
+      "hasKitchen": true,
+      "bestFor": "Active families — tennis, games room, pool, walk to everything in Broadbeach.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "oaks-gold-coast",
+      "name": "Oaks Gold Coast Hotel",
+      "area": "surfers-paradise",
+      "url": "https://www.oakshotels.com/en/oaks-gold-coast-hotel",
+      "pricePerNightFrom": 155,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Great-value apartment hotel opposite the beach — outdoor pool, heated spa, full kitchens in all apartments, views of ocean or hinterland. One of the most affordable family-friendly apartment stays on the central Gold Coast.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Families watching every dollar — the cheapest solid option with a full kitchen and pool.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "burleigh-tower",
+      "name": "Burleigh Beach Tower",
+      "area": "burleigh-heads",
+      "url": "https://www.burleighbeachtower.com.au/",
+      "pricePerNightFrom": 190,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen",
+        "beachfront"
+      ],
+      "description": "Beachfront apartments in the heart of Burleigh — outdoor pool, tennis court, full kitchens and laundries, direct access to Burleigh beach and headland walking tracks. Walk to James Street village cafes. Family holiday classic.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Burleigh lovers — beach, headland, village cafes all on foot, no car needed.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "coolangatta-sands",
+      "name": "Mantra Coolangatta Beach",
+      "area": "coolangatta",
+      "url": "https://all.accor.com/hotel/B1A5/index.en.shtml",
+      "pricePerNightFrom": 210,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen",
+        "beachfront"
+      ],
+      "description": "Beachfront apartment living at the southern end — outdoor pool and spa, full kitchens, ocean-view apartments, walk to Coolangatta beach, Snapper Rocks, and Greenmount. Quiet family favourite. Close to Gold Coast Airport (10 min drive).",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Families wanting beautiful southern beaches, surf vibe, and quick airport access.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "palazzo-versace",
+      "name": "Palazzo Versace Gold Coast",
+      "area": "main-beach",
+      "url": "https://palazzoversace.com.au/",
+      "pricePerNightFrom": 680,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "beachfront"
+      ],
+      "description": "Iconic 5-star luxury on the Main Beach waterfront — lagoon pool with sandy beach, marble interiors, private marina, kids stay-and-eat-free offers in school holidays. The flagship treat-yourself stay on the Coast.",
+      "bedrooms": [
+        "hotel_room",
+        "suite"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "Families who want the full 5-star wow factor and a lagoon pool the kids will never leave.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "langham-gold-coast",
+      "name": "The Langham, Gold Coast",
+      "area": "surfers-paradise",
+      "url": "https://www.langhamhotels.com/en/the-langham/gold-coast/",
+      "pricePerNightFrom": 590,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "beachfront",
+        "kitchen"
+      ],
+      "description": "Absolute beachfront 5-star tower at Jewel — indoor and outdoor pools, day spa, residence suites with full kitchens, direct beach access and Langham afternoon tea.",
+      "bedrooms": [
+        "hotel_room",
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 6,
+      "hasKitchen": true,
+      "bestFor": "Premium beachfront with apartment-style space for families who want luxury AND a kitchen.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "peppers-broadbeach",
+      "name": "Peppers Broadbeach",
+      "area": "broadbeach",
+      "url": "https://www.peppers.com.au/broadbeach/",
+      "pricePerNightFrom": 440,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Twin-tower luxury apartments in the heart of Broadbeach — full kitchens and laundries, podium pool, steam rooms, zen garden, 200m walk to the beach, cafes and Pacific Fair.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Spacious premium apartments walkable to everything in Broadbeach.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "dorsett-gold-coast",
+      "name": "Dorsett Gold Coast",
+      "area": "broadbeach",
+      "url": "https://www.dorsetthotels.com/australia/gold-coast/",
+      "pricePerNightFrom": 285,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Stylish mid-range hotel inside The Star precinct — rooftop recreation deck with pool, easy monorail access, interconnecting family rooms and casino-precinct dining downstairs.",
+      "bedrooms": [
+        "hotel_room",
+        "family_room"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "Polished mid-range base with resort perks at a fair price.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "voco-gold-coast",
+      "name": "voco Gold Coast",
+      "area": "surfers-paradise",
+      "url": "https://goldcoast.vocohotels.com/",
+      "pricePerNightFrom": 260,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Stylish mid-range hotel between Surfers and Broadbeach — two pools including a rooftop with skyline views, family rooms, and a short stroll to the beach and light rail.",
+      "bedrooms": [
+        "hotel_room",
+        "family_room",
+        "suite"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": false,
+      "bestFor": "Polished stay with a rooftop pool at a sensible price.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "vibe-gold-coast",
+      "name": "Vibe Hotel Gold Coast",
+      "area": "surfers-paradise",
+      "url": "https://vibehotels.com/hotel/gold-coast/",
+      "pricePerNightFrom": 200,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Fresh, modern rooms on the riverfront end of Surfers — outdoor pool, easy walking to Cavill Ave, and some of the best-value modern rooms on the strip.",
+      "bedrooms": [
+        "hotel_room",
+        "family_room"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "Modern budget base without motel vibes.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "ruby-apartments",
+      "name": "Ruby Gold Coast",
+      "area": "surfers-paradise",
+      "url": "https://rubygoldcoast.com.au/",
+      "pricePerNightFrom": 250,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "waterslides",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Newer apartment towers with a resort pool, waterslide, splash zone, kids play area, mini-golf and full kitchens — built with families in mind, one street back from the beach.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Apartment space + waterslide fun in one package.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "rydges-gold-coast-airport",
+      "name": "Rydges Gold Coast Airport",
+      "area": "coolangatta",
+      "url": "https://www.rydges.com/accommodation/gold-coast-qld/gold-coast-airport/",
+      "pricePerNightFrom": 215,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking"
+      ],
+      "description": "Right at Coolangatta airport and minutes from Kirra and Cooly beaches — rooftop bar, pool, and a smart base for the southern beaches at a fair price.",
+      "bedrooms": [
+        "hotel_room",
+        "family_room"
+      ],
+      "sleepsMax": 4,
+      "hasKitchen": false,
+      "bestFor": "Fly-in families doing the southern Gold Coast.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "marriott-surfers",
+      "name": "Surfers Paradise Marriott Resort & Spa",
+      "area": "surfers-paradise",
+      "url": "https://www.marriott.com/en-us/hotels/oolsp-surfers-paradise-marriott-resort-and-spa/",
+      "pricePerNightFrom": 480,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kidsClub"
+      ],
+      "description": "Famous lagoon pool with its own sandy beach, snorkelling with tropical fish, waterslide, swim-up bar and kids club — a resort day never leaves the property.",
+      "bedrooms": [
+        "hotel_room",
+        "family_room",
+        "suite"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": false,
+      "bestFor": "The lagoon-pool resort experience — snorkel without leaving the hotel.",
+      "bestForFamilies": true
+    }
+  ]
+}

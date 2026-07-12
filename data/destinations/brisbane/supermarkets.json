@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "lastVerified": "2026-07-12",
+    "note": "Supermarket locations and hours are approximate. Always verify opening hours on the chain's website or app.",
+    "count": 12
+  },
+  "stores": [
+    {
+      "id": "woolies-south-bank",
+      "chain": "Woolworths",
+      "name": "Woolworths South Bank",
+      "area": "south-bank",
+      "address": "Woolworths Metro, South Bank Railway Station, 253 Grey St, South Brisbane QLD 4101",
+      "hours": "7am–9pm daily",
+      "notes": "Compact but well-stocked supermarket at South Bank station. Perfect for guests at South Bank accommodation."
+    },
+    {
+      "id": "woolies-queen-street",
+      "chain": "Woolworths",
+      "name": "Woolworths Queen Street Mall",
+      "area": "brisbane-cbd",
+      "address": "Queen Adelaide Building, 90 Queen St, Brisbane QLD 4000",
+      "hours": "7am–9pm daily",
+      "notes": "CBD supermarket in the Queen Street Mall arcade. Walk from most CBD hotels. Good for quick top-ups."
+    },
+    {
+      "id": "woolies-fortitude",
+      "chain": "Woolworths",
+      "name": "Woolworths Fortitude Valley",
+      "area": "fortitude-valley",
+      "address": "Wickham St, Fortitude Valley QLD 4006",
+      "hours": "7am–9pm daily",
+      "notes": "Full supermarket for Fortitude Valley. Walk from James Street and Brunswick Street accommodation."
+    },
+    {
+      "id": "woolies-ascot",
+      "chain": "Woolworths",
+      "name": "Woolworths Ascot (near Hamilton)",
+      "area": "hamilton-northshore",
+      "address": "Racecourse Village, 181 Lancaster Rd, Ascot QLD 4007",
+      "hours": "7am–9pm daily",
+      "notes": "Closest full Woolworths to Hamilton/Portside area (~5 min drive). Good for families staying near Eat Street Northshore."
+    },
+    {
+      "id": "coles-south-bank",
+      "chain": "Coles",
+      "name": "Coles South Bank",
+      "area": "south-bank",
+      "address": "Coles South Bank, 134 Grey St, South Brisbane QLD 4101",
+      "hours": "7am–9pm daily",
+      "notes": "Smaller Coles in South Bank precinct. Walk from South Bank hotels. Great for essentials."
+    },
+    {
+      "id": "coles-myer-centre",
+      "chain": "Coles",
+      "name": "Coles Myer Centre",
+      "area": "brisbane-cbd",
+      "address": "Myer Centre, Queen St, Brisbane QLD 4000",
+      "hours": "7am–9pm daily",
+      "notes": "CBD Coles in the Myer Centre basement. Combined with shopping mall. Walk from Queen Street hotels."
+    },
+    {
+      "id": "coles-valley",
+      "chain": "Coles",
+      "name": "Coles Fortitude Valley",
+      "area": "fortitude-valley",
+      "address": "Valley Metro, 1220 Brunswick St, Fortitude Valley QLD 4006",
+      "hours": "7am–9pm daily",
+      "notes": "Full Coles in the Valley Metro complex. Good for Fortitude Valley and New Farm families."
+    },
+    {
+      "id": "coles-indooroopilly",
+      "chain": "Coles",
+      "name": "Coles Indooroopilly",
+      "area": "fig-tree-pocket",
+      "address": "Indooroopilly Shopping Centre, 322 Moggill Rd, Indooroopilly QLD 4068",
+      "hours": "7am–9pm daily",
+      "notes": "Large Coles in Indooroopilly Shopping Centre. Near Lone Pine Koala Sanctuary area (~10 min drive)."
+    },
+    {
+      "id": "aldi-fortitude",
+      "chain": "ALDI",
+      "name": "ALDI Fortitude Valley",
+      "area": "fortitude-valley",
+      "address": "ALDI Fortitude Valley, 757 Ann St, Fortitude Valley QLD 4006",
+      "hours": "8:30am–8pm daily",
+      "notes": "Budget supermarket for Fortitude Valley families. Excellent value for essentials."
+    },
+    {
+      "id": "aldi-woolloongabba",
+      "chain": "ALDI",
+      "name": "ALDI Woolloongabba (near South Bank)",
+      "area": "south-bank",
+      "address": "Woolloongabba Central, 785 Stanley St, Woolloongabba QLD 4102",
+      "hours": "8:30am–8pm daily",
+      "notes": "Cheapest grocery option near South Bank. Bring or buy bags. About 5 min drive from South Bank."
+    },
+    {
+      "id": "iga-new-farm",
+      "chain": "IGA",
+      "name": "IGA New Farm",
+      "area": "brisbane-cbd",
+      "address": "IGA New Farm, 145 Merthyr Rd, New Farm QLD 4005",
+      "hours": "7am–9pm daily",
+      "notes": "Convenient local IGA near New Farm Park. Good for New Farm and CBD-adjacent families."
+    },
+    {
+      "id": "foodworks-west-end",
+      "chain": "FoodWorks",
+      "name": "FoodWorks West End",
+      "area": "brisbane-cbd",
+      "address": "FoodWorks West End, 195 Boundary St, West End QLD 4101",
+      "hours": "7am–8pm daily",
+      "notes": "Local supermarket in vibrant West End. Walk from South Bank. Community-focused with good local range."
+    }
+  ]
+}

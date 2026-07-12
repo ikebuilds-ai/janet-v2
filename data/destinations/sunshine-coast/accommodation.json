@@ -1,0 +1,446 @@
+{
+  "meta": {
+    "lastVerified": "2026-07-12",
+    "note": "All prices are ESTIMATES per night for a family of 2 adults + up to 3 children at standard rates. Holiday/school-holiday pricing will be higher. Always verify on the official website.",
+    "count": 12
+  },
+  "properties": [
+    {
+      "id": "rumba-beach-resort",
+      "name": "Rumba Beach Resort",
+      "area": "caloundra",
+      "url": "https://www.rumbabeachresort.com.au/",
+      "pricePerNightFrom": 310,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "beachfront",
+        "kitchen",
+        "wifi",
+        "parking"
+      ],
+      "description": "Luxurious beachfront apartments overlooking Bulcock Beach in Caloundra — spacious 1, 2 & 3 bedroom apartments with full kitchens, rooftop pool, BBQ area, direct beach access. Stunning sunset views. Family holiday favourite.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families who want absolute beachfront at Caloundra — the rooftop pool and direct sand access are unbeatable.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "oasis-oaks-caloundra",
+      "name": "Oaks Sunshine Coast Oasis Resort",
+      "area": "caloundra",
+      "url": "https://www.oakshotels.com/en/oaks-sunshine-coast-oasis-resort",
+      "pricePerNightFrom": 185,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "waterslides",
+        "kitchen",
+        "wifi",
+        "parking",
+        "kidsClub"
+      ],
+      "description": "Family resort paradise in Caloundra — water park with slides, lagoon pool, heated indoor pool, spa, kids' club, BBQ areas. Self-contained apartments with full kitchens. Walking distance to Bulcock Beach and Caloundra town centre.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families wanting waterpark fun at a solid budget — the slides keep kids entertained for hours.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "breakfree-grand-pacific",
+      "name": "BreakFree Grand Pacific",
+      "area": "caloundra",
+      "url": "https://www.breakfree.com.au/hotels/qld/caloundra/grand-pacific",
+      "pricePerNightFrom": 165,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking"
+      ],
+      "description": "Spacious apartment resort in central Caloundra — 1, 2 & 3 bedroom self-contained apartments, outdoor pool, tropical gardens, close to Bulcock Beach shops and restaurants. Great value for families on a budget.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Budget-conscious families needing multiple bedrooms and full kitchen near Caloundra Beach.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "mantra-mooloolaba",
+      "name": "Mantra Mooloolaba Beach",
+      "area": "mooloolaba",
+      "url": "https://www.mantrahotels.com/mantra-mooloolaba-beach/",
+      "pricePerNightFrom": 240,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking",
+        "beachfront"
+      ],
+      "description": "Stunning Mooloolaba Esplanade location — 1, 2 & 3 bedroom apartments with private balconies, ocean or hinterland views, heated pool, walk directly to Mooloolaba Beach, Sea Life aquarium, and Wharf dining precinct.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families who want to be at the heart of Mooloolaba — beach, aquarium and restaurants at your doorstep.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "elouera-tower",
+      "name": "Elouera Tower",
+      "area": "maroochydore",
+      "url": "https://www.eloueratower.com.au/",
+      "pricePerNightFrom": 170,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking",
+        "beachfront"
+      ],
+      "description": "Beachfront holiday apartments on Cotton Tree Beach — 1, 2 & 3 bedroom self-contained apartments, outdoor pool, BBQ area, spa, sauna. Walk to Cotton Tree shops, Maroochydore patrolled beach, and river. Classic family beach holiday.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families wanting affordable beachfront at Maroochydore with pool and full self-catering.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "the-point-coolum",
+      "name": "The Point Coolum Beach",
+      "area": "coolum-beach",
+      "url": "https://www.thepointcoolum.com.au/",
+      "pricePerNightFrom": 285,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking",
+        "beachfront"
+      ],
+      "description": "Premium beachfront apartments at Coolum — 1, 2 & 3 bedroom luxury apartments with ocean views, rooftop pool, spa, full kitchens. Steps from Coolum Beach, park and surf club. Stunning sunrise views.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families who want luxury beachfront at Coolum — quieter than Mooloolaba with premium finishes.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "newport-mooloolaba",
+      "name": "Newport Mooloolaba Apartments",
+      "area": "mooloolaba",
+      "url": "https://www.newportmooloolaba.com.au/",
+      "pricePerNightFrom": 215,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking"
+      ],
+      "description": "Modern apartment complex in Mooloolaba — 1, 2 & 3 bedroom self-contained apartments with private balconies, outdoor pool, BBQ area, secure parking. Short walk to beach, wharf and shops. Great value for families.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families wanting clean modern apartments near Mooloolaba Beach at a reasonable price.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "sebel-twin-waters",
+      "name": "The Sebel Twin Waters",
+      "area": "maroochydore",
+      "url": "https://www.towersey.com.au/twin-waters-accommodation/the-sebel-twin-waters",
+      "pricePerNightFrom": 265,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking",
+        "beachfront"
+      ],
+      "description": "Resort-style apartments on a natural lagoon at Twin Waters — 1, 2 & 3 bedroom apartments, 8 pools including lagoon pool and children's wading pool, BBQ areas, tennis courts, kayak hire onsite. Walk to Mudjimba Beach.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families wanting resort facilities with apartment freedom — multiple pools and lagoon kayaking.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "belaire-place-motel",
+      "name": "Belaire Place Motel Apartments",
+      "area": "mooloolaba",
+      "url": "https://www.belaireplace.com.au/",
+      "pricePerNightFrom": 145,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking"
+      ],
+      "description": "Great-value motel apartments in Mooloolaba — 1, 2 & 3 bedroom self-contained apartments, outdoor pool, tropical gardens. Short walk to beach, wharf, and shops. One of the most affordable family stays in Mooloolaba.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families watching every dollar — cheapest solid option in Mooloolaba with full kitchen and pool.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "coolum-caprice",
+      "name": "Coolum Caprice",
+      "area": "coolum-beach",
+      "url": "https://www.coolumcaprice.com.au/",
+      "pricePerNightFrom": 195,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking",
+        "beachfront"
+      ],
+      "description": "Beachfront holiday apartments at Coolum Beach — 1, 2 & 3 bedroom self-contained apartments with ocean or garden views, heated pool, spa, BBQ area. Steps from Coolum Beach and surf club. Family-friendly and relaxed.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families wanting beachfront Coolum without the premium price — heated pool and full kitchen.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "seaspray-apartments",
+      "name": "Sea Spray Apartments",
+      "area": "maroochydore",
+      "url": "https://www.seaspraymaroochydore.com.au/",
+      "pricePerNightFrom": 175,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking"
+      ],
+      "description": "Central Maroochydore apartment complex — 1, 2 & 3 bedroom self-contained apartments, outdoor pool, tropical gardens, secure parking. Walk to Sunshine Plaza, Maroochydore Beach, and surf club. Great central base.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Families wanting a central Sunshine Coast base near shopping plaza and patrolled beach.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "pelican-waters-resort",
+      "name": "Pelican Waters Resort",
+      "area": "caloundra",
+      "url": "https://www.pelicanwatersresort.com.au/",
+      "pricePerNightFrom": 225,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "kitchen",
+        "wifi",
+        "parking",
+        "golf"
+      ],
+      "description": "Resort apartments on the Greg Norman-designed golf course in Pelican Waters — 1 & 2 bedroom self-contained apartments with lagoon pool, tropical gardens, close to Golden Beach. Peaceful family setting.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Families who want a quieter Caloundra base near golf and calm swimming beaches.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "oceans-mooloolaba",
+      "name": "Oceans Mooloolaba",
+      "area": "mooloolaba",
+      "url": "https://www.oceansmooloolaba.com.au/",
+      "pricePerNightFrom": 540,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "beachfront",
+        "kitchen"
+      ],
+      "description": "Mooloolaba’s premier absolute-beachfront apartments — full kitchens, heated lagoon pool, spa, sauna, and the Esplanade’s restaurants at your doorstep.",
+      "bedrooms": [
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 7,
+      "hasKitchen": true,
+      "bestFor": "Top-shelf beachfront apartment living right on Mooloolaba Beach.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "breeze-mooloolaba",
+      "name": "Breeze Mooloolaba",
+      "area": "mooloolaba",
+      "url": "https://www.breezemooloolaba.com.au/",
+      "pricePerNightFrom": 470,
+      "priceBand": "premium",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Modern luxury apartments one street from Mooloolaba Beach — rooftop infinity pool with ocean views, full kitchens and laundries, big balconies.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom",
+        "three_bedroom"
+      ],
+      "sleepsMax": 6,
+      "hasKitchen": true,
+      "bestFor": "New-build luxury with a rooftop pool the kids will rave about.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "novotel-sunshine-coast",
+      "name": "Novotel Sunshine Coast Resort",
+      "area": "maroochydore",
+      "url": "https://novotelsunshinecoastresort.com.au/",
+      "pricePerNightFrom": 390,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kidsClub"
+      ],
+      "description": "Resort built around its own saltwater lagoon at Twin Waters — kayaking and paddleboarding included, kids club, lagoon-view rooms and swim-up pool bar.",
+      "bedrooms": [
+        "hotel_room",
+        "family_room",
+        "suite"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": false,
+      "bestFor": "Resort-style fun with free water activities on a private lagoon.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "sebel-maroochydore",
+      "name": "The Sebel Maroochydore",
+      "area": "maroochydore",
+      "url": "https://www.thesebelmaroochydore.com.au/",
+      "pricePerNightFrom": 330,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Apartment hotel a short walk from Maroochydore Beach — full kitchens, two pools including heated lap pool, and Ocean Street’s dining precinct nearby.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Apartment comfort near beach and restaurants.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "kings-beach-caloundra",
+      "name": "Rumba Beach Resort Annex — Kings Beach Suites",
+      "area": "caloundra",
+      "url": "https://www.kingsbeachsuites.com.au/",
+      "pricePerNightFrom": 280,
+      "priceBand": "mid",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Modern self-contained suites overlooking Kings Beach Caloundra — full kitchens, heated pool, and the free beachfront saltwater pool and playground across the road.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 5,
+      "hasKitchen": true,
+      "bestFor": "Quiet Caloundra base by the calmest family beach.",
+      "bestForFamilies": true
+    },
+    {
+      "id": "alex-beach-cabins",
+      "name": "Alex Beach Cabins & Tourist Park",
+      "area": "maroochydore",
+      "url": "https://www.alexbeachcabins.com.au/",
+      "pricePerNightFrom": 175,
+      "priceBand": "budget",
+      "features": [
+        "pool",
+        "wifi",
+        "parking",
+        "kitchen"
+      ],
+      "description": "Self-contained cabins 200m from Alexandra Headland beach — kitchens, pool, BBQ areas and a playground. Simple, clean and right by the surf.",
+      "bedrooms": [
+        "one_bedroom",
+        "two_bedroom"
+      ],
+      "sleepsMax": 6,
+      "hasKitchen": true,
+      "bestFor": "Cheapest way to sleep a family near the beach.",
+      "bestForFamilies": true
+    }
+  ]
+}

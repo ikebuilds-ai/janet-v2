@@ -1,0 +1,64 @@
+{
+  "name": "Brisbane Holiday Builder 🏙️",
+  "slug": "brisbane",
+  "destinationId": "brisbane",
+  "displayName": "Brisbane",
+  "heroTagline": "River city adventures, culture and outdoor fun — Queensland's vibrant capital is packed with family experiences.",
+  "region": {
+    "city": "Brisbane",
+    "state": "Queensland",
+    "country": "Australia",
+    "currency": "AUD",
+    "currencySymbol": "$",
+    "description": "A subtropical playground with world-class cultural precincts, stunning parklands, koala sanctuaries, and a buzzing food scene. The perfect city break for families."
+  },
+  "areas": [
+    { "id": "brisbane-cbd", "name": "Brisbane CBD", "description": "The heart of the city — Queen Street Mall, Botanic Gardens, CityCat ferries, and iconic laneway cafes." },
+    { "id": "south-bank", "name": "South Bank", "description": "Brisbane's cultural and recreational hub — Streets Beach, Queensland Museum, GOMA, Wheel of Brisbane, and riverside dining." },
+    { "id": "fortitude-valley", "name": "Fortitude Valley / New Farm", "description": "Trendy dining and entertainment precinct — James Street boutiques, live music, and some of Brisbane's best restaurants." },
+    { "id": "hamilton-northshore", "name": "Hamilton / Northshore / Portside", "description": "Riverside dining and cruise terminal — Eat Street Northshore food markets, Portside Wharf, and riverfront walks." },
+    { "id": "fig-tree-pocket", "name": "Fig Tree Pocket / Indooroopilly", "description": "Western suburbs — home to Lone Pine Koala Sanctuary and leafy riverside neighbourhoods." },
+    { "id": "brisbane-hinterland", "name": "Brisbane Hinterland", "description": "Day-trip to Mt Coot-tha, Mt Tamborine, and Lamington National Park — lookouts, waterfalls, and rainforest walks." }
+  ],
+  "areaDistances": {
+    "brisbane-cbd": { "south-bank": 2, "fortitude-valley": 3, "hamilton-northshore": 6, "fig-tree-pocket": 12, "brisbane-hinterland": 25 },
+    "south-bank": { "brisbane-cbd": 2, "fortitude-valley": 4, "hamilton-northshore": 7, "fig-tree-pocket": 14, "brisbane-hinterland": 28 },
+    "fortitude-valley": { "brisbane-cbd": 3, "south-bank": 4, "hamilton-northshore": 5, "fig-tree-pocket": 15, "brisbane-hinterland": 30 },
+    "hamilton-northshore": { "brisbane-cbd": 6, "south-bank": 7, "fortitude-valley": 5, "fig-tree-pocket": 18, "brisbane-hinterland": 32 },
+    "fig-tree-pocket": { "brisbane-cbd": 12, "south-bank": 14, "fortitude-valley": 15, "hamilton-northshore": 18, "brisbane-hinterland": 20 },
+    "brisbane-hinterland": { "brisbane-cbd": 25, "south-bank": 28, "fortitude-valley": 30, "hamilton-northshore": 32, "fig-tree-pocket": 20 }
+  },
+  "transport": {
+    "flyingIn": {
+      "fromBrisbaneAirport": { "driveMinutes": 20, "tollEstimate": 5 },
+      "fromGoldCoast": { "driveMinutes": 60, "tollEstimate": 10 }
+    },
+    "driving": {
+      "fuelPerKmEstimate": 0.15,
+      "parkingNote": "CBD parking is paid ($15-30/day). Park at South Bank (cheaper) or use public transport. Many hotels include parking."
+    },
+    "airportTransfer": {
+      "familyShuttle": "Approx. $50-$70 family return from Brisbane Airport to CBD.",
+      "rideShare": "Approx. $30-$45 from Brisbane Airport to CBD."
+    }
+  },
+  "supermarketChains": [
+    { "chain": "Woolworths", "url": "https://www.woolworths.com.au" },
+    { "chain": "Coles", "url": "https://www.coles.com.au" },
+    { "chain": "ALDI", "url": "https://www.aldi.com.au" },
+    { "chain": "IGA", "url": "https://www.iga.com.au" },
+    { "chain": "FoodWorks", "url": "https://www.foodworks.com.au" },
+    { "chain": "SPAR", "url": "https://www.spar.com.au" }
+  ],
+  "meta": {
+    "dataGenerated": "2026-07-12",
+    "priceAccuracyNote": "All prices and costs are estimates generated on 2026-07-12. Availability and final pricing must be confirmed with each provider. The Brisbane Holiday Builder does not sell tickets, take bookings, or hold money.",
+    "disclaimer": "Not affiliated with or endorsed by any listed accommodation, attraction, restaurant, or retail business. Logos and trademarks belong to their respective owners.",
+    "forkDetails": {
+      "isTemplate": true,
+      "license": "MIT",
+      "attribution": "Based on Gold Coast Holiday Builder by Erosium (erosium.com.au).",
+      "makeItYours": "To create a Holiday Builder for YOUR city: edit this region.json and the 4 catalogue files, then deploy. See README for full instructions."
+    }
+  }
+}
